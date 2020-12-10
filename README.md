@@ -1,0 +1,2 @@
+# FBI_Active_Shooter_Incidents_2000-2018
+A manual ETL of the primary data from the FBI's 19 year report on active shooters incidents, into a standardized structured dataset. https://www.fbi.gov/file-repository/active-shooter-incidents-2000-2018.pdf/view Resulting datasets match the summary data provided by the FBI's overview infographic report: https://www.fbi.gov/about/partnerships/office-of-partner-engagement/active-shooter-incidents-graphics
