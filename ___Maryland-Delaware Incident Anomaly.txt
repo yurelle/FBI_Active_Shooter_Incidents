@@ -1,0 +1,7 @@
+The active shooter incident titled:
+"Advanced Granite Solutions and 28th Street Auto Sales and Service"
+in the FBI report, consists of 2 incidents crossing state lines. The first incident occurred in Maryland; the shooter then drove 52 miles, across state lines, into Delaware, where he met with a group of 2 people in a garage, and shot one of them. 
+
+In the FBI report, both of these incidents are considered the same incident. In the spreadsheet, this is handled by having the state column filled in as "Maryland & Delaware". However, the database tables enforce standardized state names. So, there are 2 state records for the same incident record.
+
+Be careful when using this data that you do not count this incident twice. If you do, your totals will not match the FBI's official numbers.
