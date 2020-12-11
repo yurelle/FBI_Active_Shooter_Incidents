@@ -15,4 +15,4 @@ I've done my best to verify the data, but there might be some errors in my ETL p
 In the end, the location category distributions, and the yearly totals for number of incidents, deaths, wounded, & total casualties (in both the Excel spreadsheet & the database tables) exactly match the summary data provided by the FBI in their overview infographic report.
 
 Final Note:
-See the text file named "___Delaware Incident Anomaly.txt" in the root directory, for a clarification on a data standardization decision.
+See the text file named "___Maryland-Delaware Incident Anomaly.txt" in the root directory, for a clarification on a data standardization decision.
