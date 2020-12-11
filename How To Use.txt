@@ -1,0 +1,21 @@
+This project consists of 2 views into the same dataset. The finalized, prebuilt version of both of these can be found in the "Pre-Built Datasets" folder.
+	1) Excel Spreadsheet:
+		Available as either a Microsoft Excel file or CSV
+	2) Relational Database (Implemented via MySQL):
+		Available as either a pre-populated Schema build script, or
+		incremental build scripts, starting with the Schema structure,
+		then populating it with the raw values from the spreadsheet,
+		and then performing an ETL to populate the advanced relational
+		tables. This is available in case you want to modify the data,
+		or need to perform dialect changes to work with a different
+		brand of database.
+		
+		The pre-populated script can be found here:
+		"Pre-Built Datasets/FinalDB___fbi_active_shooters_2000_2018.sql"
+		
+		The incremental build scripts can be found here. Simply run them
+		in order, and you will end up with a database identical to the one
+		contained in the pre-populated build script.
+		"Incremental Build Scripts/BuildActiveShooterDB_00_Structure.sql"
+		"Incremental Build Scripts/BuildActiveShooterDB_01_RawRecordInserts.sql"
+		"Incremental Build Scripts/BuildActiveShooterDB_02_ActiveShooterETL.sql"

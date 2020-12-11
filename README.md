@@ -16,3 +16,7 @@ In the end, the location category distributions, and the yearly totals for numbe
 
 Final Note:
 See the text file named "___Delaware Incident Anomaly.txt" in the root directory, for a clarification on a data standardization decision.
+
+----
+
+See the "How To Use.txt" file for instructions.
