@@ -1,0 +1,1466 @@
+------------------------------
+Verifying Direct Single Values
+------------------------------
+
+Comparing [incident: 1] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 2] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 3] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 4] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 5] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 6] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 7] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 8] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 9] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 10] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 11] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 12] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 13] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 14] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 15] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 16] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 17] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 18] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 19] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 20] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 21] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 22] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 23] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 24] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 25] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 26] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 27] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 28] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 29] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 30] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 31] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 32] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 33] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 34] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 35] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 36] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 37] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 38] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 39] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 40] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 41] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 42] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 43] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 44] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 45] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 46] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 47] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 48] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 49] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 50] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 51] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 52] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 53] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 54] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 55] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 56] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 57] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 58] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 59] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 60] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 61] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 62] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 63] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 64] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 65] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 66] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 67] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 68] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 69] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 70] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 71] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 72] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 73] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 74] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 75] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 76] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 77] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 78] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 79] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 80] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 81] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 82] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 83] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 84] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 85] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 86] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 87] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 88] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 89] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 90] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 91] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 92] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 93] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 94] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 95] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 96] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 97] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 98] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 99] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 100] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 101] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 102] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 103] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 104] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 105] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 106] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 107] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 108] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 109] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 110] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 111] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 112] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 113] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 114] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 115] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 116] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 117] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 118] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 119] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 120] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 121] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 122] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 123] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 124] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 125] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 126] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 127] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 128] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 129] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 130] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 131] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 132] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 133] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 134] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 135] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 136] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 137] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 138] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 139] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 140] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 141] ...	Deaths: ! [27 vs 26]	Wounded: ✓				Time: ✓			
+Comparing [incident: 142] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 143] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 144] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 145] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 146] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 147] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 148] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 149] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 150] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 151] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 152] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 153] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 154] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 155] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 156] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 157] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 158] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 159] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 160] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 161] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 162] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 163] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 164] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 165] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 166] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 167] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 168] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 169] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 170] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 171] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 172] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 173] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 174] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 175] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 176] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 177] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 178] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 179] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 180] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 181] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 182] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 183] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 184] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 185] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 186] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 187] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 188] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 189] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 190] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 191] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 192] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 193] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 194] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 195] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 196] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 197] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 198] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 199] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 200] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 201] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 202] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 203] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 204] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 205] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 206] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 207] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 208] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 209] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 210] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 211] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 212] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 213] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 214] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 215] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 216] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 217] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 218] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 219] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 220] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 221] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 222] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 223] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 224] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 225] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 226] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 227] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 228] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 229] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 230] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 231] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 232] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 233] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 234] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 235] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 236] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 237] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 238] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 239] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 240] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 241] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 242] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 243] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 244] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 245] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 246] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 247] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 248] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 249] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 250] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 251] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 252] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 253] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 254] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 255] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 256] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 257] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 258] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 259] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 260] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 261] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 262] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 263] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 264] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 265] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 266] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 267] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 268] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 269] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 270] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 271] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 272] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 273] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 274] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 275] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 276] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 277] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 278] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 279] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 280] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 281] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 282] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 283] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 284] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 285] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 286] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 287] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 288] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 289] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 290] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 291] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 292] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 293] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 294] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 295] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 296] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 297] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 298] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 299] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 300] ...	Deaths: ✓			Wounded: ! [4 vs 5]		Time: ✓			
+Comparing [incident: 301] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 302] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 303] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 304] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 305] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 306] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 307] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 308] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 309] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 310] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 311] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 312] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 313] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 314] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 315] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 316] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 317] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 318] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 319] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 320] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 321] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 322] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 323] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 324] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 325] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 326] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 327] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 328] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 329] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 330] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 331] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 332] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 333] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 334] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 335] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 336] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 337] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 338] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 339] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 340] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 341] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 342] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 343] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 344] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 345] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 346] ...	Deaths: ✓			Wounded: ! [4 vs 5]		Time: ✓			
+Comparing [incident: 347] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 348] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 349] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 350] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 351] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 352] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 353] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 354] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 355] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 356] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 357] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 358] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 359] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 360] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 361] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 362] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 363] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 364] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 365] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 366] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 367] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 368] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 369] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 370] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 371] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 372] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 373] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 374] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 375] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 376] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 377] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 378] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 379] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 380] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 381] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 382] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 383] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 384] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 385] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 386] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 387] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 388] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 389] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 390] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 391] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 392] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 393] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 394] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 395] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 396] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 397] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 398] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 399] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 400] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 401] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 402] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 403] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 404] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 405] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 406] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 407] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 408] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 409] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 410] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 411] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 412] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 413] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 414] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 415] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 416] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 417] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 418] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 419] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 420] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 421] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 422] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 423] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 424] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 425] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 426] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 427] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 428] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 429] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 430] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 431] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 432] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 433] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 434] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 435] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 436] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 437] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 438] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 439] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 440] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 441] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 442] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 443] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 444] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 445] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 446] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 447] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 448] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 449] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 450] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 451] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 452] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 453] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 454] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 455] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 456] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 457] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 458] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 459] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 460] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 461] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 462] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 463] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 464] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 465] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 466] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 467] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 468] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 469] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 470] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 471] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 472] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 473] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 474] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 475] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 476] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 477] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 478] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 479] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 480] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 481] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 482] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 483] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+Comparing [incident: 484] ...	Deaths: ✓			Wounded: ✓				Time: ✓			
+
+----------------
+Verifying States
+----------------
+
+Comparing [incident: 1] ...	States: ✓			
+Comparing [incident: 2] ...	States: ✓			
+Comparing [incident: 3] ...	States: ✓			
+Comparing [incident: 4] ...	States: ✓			
+Comparing [incident: 5] ...	States: ✓			
+Comparing [incident: 6] ...	States: ✓			
+Comparing [incident: 7] ...	States: ✓			
+Comparing [incident: 8] ...	States: ✓			
+Comparing [incident: 9] ...	States: ✓			
+Comparing [incident: 10] ...	States: ✓			
+Comparing [incident: 11] ...	States: ✓			
+Comparing [incident: 12] ...	States: ✓			
+Comparing [incident: 13] ...	States: ✓			
+Comparing [incident: 14] ...	States: ✓			
+Comparing [incident: 15] ...	States: ✓			
+Comparing [incident: 16] ...	States: ✓			
+Comparing [incident: 17] ...	States: ✓			
+Comparing [incident: 18] ...	States: ✓			
+Comparing [incident: 19] ...	States: ✓			
+Comparing [incident: 20] ...	States: ✓			
+Comparing [incident: 21] ...	States: ✓			
+Comparing [incident: 22] ...	States: ✓			
+Comparing [incident: 23] ...	States: ✓			
+Comparing [incident: 24] ...	States: ✓			
+Comparing [incident: 25] ...	States: ✓			
+Comparing [incident: 26] ...	States: ✓			
+Comparing [incident: 27] ...	States: ✓			
+Comparing [incident: 28] ...	States: ✓			
+Comparing [incident: 29] ...	States: ✓			
+Comparing [incident: 30] ...	States: ✓			
+Comparing [incident: 31] ...	States: ✓			
+Comparing [incident: 32] ...	States: ✓			
+Comparing [incident: 33] ...	States: ✓			
+Comparing [incident: 34] ...	States: ✓			
+Comparing [incident: 35] ...	States: ✓			
+Comparing [incident: 36] ...	States: ✓			
+Comparing [incident: 37] ...	States: ✓			
+Comparing [incident: 38] ...	States: ✓			
+Comparing [incident: 39] ...	States: ✓			
+Comparing [incident: 40] ...	States: ✓			
+Comparing [incident: 41] ...	States: ✓			
+Comparing [incident: 42] ...	States: ✓			
+Comparing [incident: 43] ...	States: ✓			
+Comparing [incident: 44] ...	States: ✓			
+Comparing [incident: 45] ...	States: ✓			
+Comparing [incident: 46] ...	States: ✓			
+Comparing [incident: 47] ...	States: ✓			
+Comparing [incident: 48] ...	States: ✓			
+Comparing [incident: 49] ...	States: ✓			
+Comparing [incident: 50] ...	States: ✓			
+Comparing [incident: 51] ...	States: ✓			
+Comparing [incident: 52] ...	States: ✓			
+Comparing [incident: 53] ...	States: ✓			
+Comparing [incident: 54] ...	States: ✓			
+Comparing [incident: 55] ...	States: ✓			
+Comparing [incident: 56] ...	States: ✓			
+Comparing [incident: 57] ...	States: ✓			
+Comparing [incident: 58] ...	States: ✓			
+Comparing [incident: 59] ...	States: ✓			
+Comparing [incident: 60] ...	States: ✓			
+Comparing [incident: 61] ...	States: ✓			
+Comparing [incident: 62] ...	States: ✓			
+Comparing [incident: 63] ...	States: ✓			
+Comparing [incident: 64] ...	States: ✓			
+Comparing [incident: 65] ...	States: ✓			
+Comparing [incident: 66] ...	States: ✓			
+Comparing [incident: 67] ...	States: ✓			
+Comparing [incident: 68] ...	States: ✓			
+Comparing [incident: 69] ...	States: ✓			
+Comparing [incident: 70] ...	States: ✓			
+Comparing [incident: 71] ...	States: ✓			
+Comparing [incident: 72] ...	States: ✓			
+Comparing [incident: 73] ...	States: ✓			
+Comparing [incident: 74] ...	States: ✓			
+Comparing [incident: 75] ...	States: ✓			
+Comparing [incident: 76] ...	States: ✓			
+Comparing [incident: 77] ...	States: ✓			
+Comparing [incident: 78] ...	States: ✓			
+Comparing [incident: 79] ...	States: ✓			
+Comparing [incident: 80] ...	States: ✓			
+Comparing [incident: 81] ...	States: ✓			
+Comparing [incident: 82] ...	States: ✓			
+Comparing [incident: 83] ...	States: ✓			
+Comparing [incident: 84] ...	States: ✓			
+Comparing [incident: 85] ...	States: ✓			
+Comparing [incident: 86] ...	States: ✓			
+Comparing [incident: 87] ...	States: ✓			
+Comparing [incident: 88] ...	States: ✓			
+Comparing [incident: 89] ...	States: ✓			
+Comparing [incident: 90] ...	States: ✓			
+Comparing [incident: 91] ...	States: ✓			
+Comparing [incident: 92] ...	States: ✓			
+Comparing [incident: 93] ...	States: ✓			
+Comparing [incident: 94] ...	States: ✓			
+Comparing [incident: 95] ...	States: ✓			
+Comparing [incident: 96] ...	States: ✓			
+Comparing [incident: 97] ...	States: ✓			
+Comparing [incident: 98] ...	States: ✓			
+Comparing [incident: 99] ...	States: ✓			
+Comparing [incident: 100] ...	States: ✓			
+Comparing [incident: 101] ...	States: ✓			
+Comparing [incident: 102] ...	States: ✓			
+Comparing [incident: 103] ...	States: ✓			
+Comparing [incident: 104] ...	States: ✓			
+Comparing [incident: 105] ...	States: ✓			
+Comparing [incident: 106] ...	States: ✓			
+Comparing [incident: 107] ...	States: ✓			
+Comparing [incident: 108] ...	States: ✓			
+Comparing [incident: 109] ...	States: ✓			
+Comparing [incident: 110] ...	States: ✓			
+Comparing [incident: 111] ...	States: ✓			
+Comparing [incident: 112] ...	States: ✓			
+Comparing [incident: 113] ...	States: ✓			
+Comparing [incident: 114] ...	States: ✓			
+Comparing [incident: 115] ...	States: ✓			
+Comparing [incident: 116] ...	States: ✓			
+Comparing [incident: 117] ...	States: ✓			
+Comparing [incident: 118] ...	States: ✓			
+Comparing [incident: 119] ...	States: ✓			
+Comparing [incident: 120] ...	States: ✓			
+Comparing [incident: 121] ...	States: ✓			
+Comparing [incident: 122] ...	States: ✓			
+Comparing [incident: 123] ...	States: ✓			
+Comparing [incident: 124] ...	States: ✓			
+Comparing [incident: 125] ...	States: ✓			
+Comparing [incident: 126] ...	States: ✓			
+Comparing [incident: 127] ...	States: ✓			
+Comparing [incident: 128] ...	States: ✓			
+Comparing [incident: 129] ...	States: ✓			
+Comparing [incident: 130] ...	States: ✓			
+Comparing [incident: 131] ...	States: ✓			
+Comparing [incident: 132] ...	States: ✓			
+Comparing [incident: 133] ...	States: ✓			
+Comparing [incident: 134] ...	States: ✓			
+Comparing [incident: 135] ...	States: ✓			
+Comparing [incident: 136] ...	States: ✓			
+Comparing [incident: 137] ...	States: ✓			
+Comparing [incident: 138] ...	States: ✓			
+Comparing [incident: 139] ...	States: ✓			
+Comparing [incident: 140] ...	States: ✓			
+Comparing [incident: 141] ...	States: ✓			
+Comparing [incident: 142] ...	States: ✓			
+Comparing [incident: 143] ...	States: ✓			
+Comparing [incident: 144] ...	States: ✓			
+Comparing [incident: 145] ...	States: ✓			
+Comparing [incident: 146] ...	States: ✓			
+Comparing [incident: 147] ...	States: ✓			
+Comparing [incident: 148] ...	States: ✓			
+Comparing [incident: 149] ...	States: ✓			
+Comparing [incident: 150] ...	States: ✓			
+Comparing [incident: 151] ...	States: ✓			
+Comparing [incident: 152] ...	States: ✓			
+Comparing [incident: 153] ...	States: ✓			
+Comparing [incident: 154] ...	States: ✓			
+Comparing [incident: 155] ...	States: ✓			
+Comparing [incident: 156] ...	States: ✓			
+Comparing [incident: 157] ...	States: ✓			
+Comparing [incident: 158] ...	States: ✓			
+Comparing [incident: 159] ...	States: ✓			
+Comparing [incident: 160] ...	States: ✓			
+Comparing [incident: 161] ...	States: ✓			
+Comparing [incident: 162] ...	States: ✓			
+Comparing [incident: 163] ...	States: ✓			
+Comparing [incident: 164] ...	States: ✓			
+Comparing [incident: 165] ...	States: ✓			
+Comparing [incident: 166] ...	States: ✓			
+Comparing [incident: 167] ...	States: ✓			
+Comparing [incident: 168] ...	States: ✓			
+Comparing [incident: 169] ...	States: ✓			
+Comparing [incident: 170] ...	States: ✓			
+Comparing [incident: 171] ...	States: ✓			
+Comparing [incident: 172] ...	States: ✓			
+Comparing [incident: 173] ...	States: ✓			
+Comparing [incident: 174] ...	States: ✓			
+Comparing [incident: 175] ...	States: ✓			
+Comparing [incident: 176] ...	States: ✓			
+Comparing [incident: 177] ...	States: ✓			
+Comparing [incident: 178] ...	States: ✓			
+Comparing [incident: 179] ...	States: ✓			
+Comparing [incident: 180] ...	States: ✓			
+Comparing [incident: 181] ...	States: ✓			
+Comparing [incident: 182] ...	States: ✓			
+Comparing [incident: 183] ...	States: ✓			
+Comparing [incident: 184] ...	States: ✓			
+Comparing [incident: 185] ...	States: ✓			
+Comparing [incident: 186] ...	States: ✓			
+Comparing [incident: 187] ...	States: ✓			
+Comparing [incident: 188] ...	States: ✓			
+Comparing [incident: 189] ...	States: ✓			
+Comparing [incident: 190] ...	States: ✓			
+Comparing [incident: 191] ...	States: ✓			
+Comparing [incident: 192] ...	States: ✓			
+Comparing [incident: 193] ...	States: ✓			
+Comparing [incident: 194] ...	States: ✓			
+Comparing [incident: 195] ...	States: ✓			
+Comparing [incident: 196] ...	States: ✓			
+Comparing [incident: 197] ...	States: ✓			
+Comparing [incident: 198] ...	States: ✓			
+Comparing [incident: 199] ...	States: ✓			
+Comparing [incident: 200] ...	States: ✓			
+Comparing [incident: 201] ...	States: ✓			
+Comparing [incident: 202] ...	States: ✓			
+Comparing [incident: 203] ...	States: ✓			
+Comparing [incident: 204] ...	States: ✓			
+Comparing [incident: 205] ...	States: ✓			
+Comparing [incident: 206] ...	States: ✓			
+Comparing [incident: 207] ...	States: ✓			
+Comparing [incident: 208] ...	States: ✓			
+Comparing [incident: 209] ...	States: ✓			
+Comparing [incident: 210] ...	States: ✓			
+Comparing [incident: 211] ...	States: ✓			
+Comparing [incident: 212] ...	States: ✓			
+Comparing [incident: 213] ...	States: ✓			
+Comparing [incident: 214] ...	States: ✓			
+Comparing [incident: 215] ...	States: ✓			
+Comparing [incident: 216] ...	States: ✓			
+Comparing [incident: 217] ...	States: ✓			
+Comparing [incident: 218] ...	States: ✓			
+Comparing [incident: 219] ...	States: ✓			
+Comparing [incident: 220] ...	States: ✓			
+Comparing [incident: 221] ...	States: ✓			
+Comparing [incident: 222] ...	States: ✓			
+Comparing [incident: 223] ...	States: ✓			
+Comparing [incident: 224] ...	States: ✓			
+Comparing [incident: 225] ...	States: ✓			
+Comparing [incident: 226] ...	States: ✓			
+Comparing [incident: 227] ...	States: ✓			
+Comparing [incident: 228] ...	States: ✓			
+Comparing [incident: 229] ...	States: ✓			
+Comparing [incident: 230] ...	States: ✓			
+Comparing [incident: 231] ...	States: ✓			
+Comparing [incident: 232] ...	States: ✓			
+Comparing [incident: 233] ...	States: ✓			
+Comparing [incident: 234] ...	States: ✓			
+Comparing [incident: 235] ...	States: ✓			
+Comparing [incident: 236] ...	States: ✓			
+Comparing [incident: 237] ...	States: ✓			
+Comparing [incident: 238] ...	States: ✓			
+Comparing [incident: 239] ...	States: ✓			
+Comparing [incident: 240] ...	States: ✓			
+Comparing [incident: 241] ...	States: ✓			
+Comparing [incident: 242] ...	States: ✓			
+Comparing [incident: 243] ...	States: ✓			
+Comparing [incident: 244] ...	States: ✓			
+Comparing [incident: 245] ...	States: ✓			
+Comparing [incident: 246] ...	States: ✓			
+Comparing [incident: 247] ...	States: ✓			
+Comparing [incident: 248] ...	States: ✓			
+Comparing [incident: 249] ...	States: ✓			
+Comparing [incident: 250] ...	States: ✓			
+Comparing [incident: 251] ...	States: ✓			
+Comparing [incident: 252] ...	States: ✓			
+Comparing [incident: 253] ...	States: ✓			
+Comparing [incident: 254] ...	States: ✓			
+Comparing [incident: 255] ...	States: ✓			
+Comparing [incident: 256] ...	States: ✓			
+Comparing [incident: 257] ...	States: ✓			
+Comparing [incident: 258] ...	States: ✓			
+Comparing [incident: 259] ...	States: ✓			
+Comparing [incident: 260] ...	States: ✓			
+Comparing [incident: 261] ...	States: ✓			
+Comparing [incident: 262] ...	States: ✓			
+Comparing [incident: 263] ...	States: ✓			
+Comparing [incident: 264] ...	States: ✓			
+Comparing [incident: 265] ...	States: ✓			
+Comparing [incident: 266] ...	States: ✓			
+Comparing [incident: 267] ...	States: ✓			
+Comparing [incident: 268] ...	States: ✓			
+Comparing [incident: 269] ...	States: ✓			
+Comparing [incident: 270] ...	States: ✓			
+Comparing [incident: 271] ...	States: ✓			
+Comparing [incident: 272] ...	States: ✓			
+Comparing [incident: 273] ...	States: ✓			
+Comparing [incident: 274] ...	States: ✓			
+Comparing [incident: 275] ...	States: ✓			
+Comparing [incident: 276] ...	States: ✓			
+Comparing [incident: 277] ...	States: ✓			
+Comparing [incident: 278] ...	States: ✓			
+Comparing [incident: 279] ...	States: ✓			
+Comparing [incident: 280] ...	States: ✓			
+Comparing [incident: 281] ...	States: ✓			
+Comparing [incident: 282] ...	States: ✓			
+Comparing [incident: 283] ...	States: ✓			
+Comparing [incident: 284] ...	States: ✓			
+Comparing [incident: 285] ...	States: ✓			
+Comparing [incident: 286] ...	States: ✓			
+Comparing [incident: 287] ...	States: ✓			
+Comparing [incident: 288] ...	States: ✓			
+Comparing [incident: 289] ...	States: ✓			
+Comparing [incident: 290] ...	States: ✓			
+Comparing [incident: 291] ...	States: ✓			
+Comparing [incident: 292] ...	States: ✓			
+Comparing [incident: 293] ...	States: ✓			
+Comparing [incident: 294] ...	States: ✓			
+Comparing [incident: 295] ...	States: ✓			
+Comparing [incident: 296] ...	States: ✓			
+Comparing [incident: 297] ...	States: ✓			
+Comparing [incident: 298] ...	States: ✓			
+Comparing [incident: 299] ...	States: ✓			
+Comparing [incident: 300] ...	States: ✓			
+Comparing [incident: 301] ...	States: ✓			
+Comparing [incident: 302] ...	States: ✓			
+Comparing [incident: 303] ...	States: ✓			
+Comparing [incident: 304] ...	States: ✓			
+Comparing [incident: 305] ...	States: ✓			
+Comparing [incident: 306] ...	States: ✓			
+Comparing [incident: 307] ...	States: ✓			
+Comparing [incident: 308] ...	States: ✓			
+Comparing [incident: 309] ...	States: ✓			
+Comparing [incident: 310] ...	States: ✓			
+Comparing [incident: 311] ...	States: ✓			
+Comparing [incident: 312] ...	States: ✓			
+Comparing [incident: 313] ...	States: ✓			
+Comparing [incident: 314] ...	States: ✓			
+Comparing [incident: 315] ...	States: ✓			
+Comparing [incident: 316] ...	States: ✓			
+Comparing [incident: 317] ...	States: ✓			
+Comparing [incident: 318] ...	States: ✓			
+Comparing [incident: 319] ...	States: ✓			
+Comparing [incident: 320] ...	States: ✓			
+Comparing [incident: 321] ...	States: ✓			
+Comparing [incident: 322] ...	States: ✓			
+Comparing [incident: 323] ...	States: ✓			
+Comparing [incident: 324] ...	States: ✓			
+Comparing [incident: 325] ...	States: ✓			
+Comparing [incident: 326] ...	States: ✓			
+Comparing [incident: 327] ...	States: ✓			
+Comparing [incident: 328] ...	States: ✓			
+Comparing [incident: 329] ...	States: ✓			
+Comparing [incident: 330] ...	States: ✓			
+Comparing [incident: 331] ...	States: ✓			
+Comparing [incident: 332] ...	States: ✓			
+Comparing [incident: 333] ...	States: ✓			
+Comparing [incident: 334] ...	States: ✓			
+Comparing [incident: 335] ...	States: ✓			
+Comparing [incident: 336] ...	States: ✓			
+Comparing [incident: 337] ...	States: ✓			
+Comparing [incident: 338] ...	States: ✓			
+Comparing [incident: 339] ...	States: ✓			
+Comparing [incident: 340] ...	States: ✓			
+Comparing [incident: 341] ...	States: ✓			
+Comparing [incident: 342] ...	States: ✓			
+Comparing [incident: 343] ...	States: ✓			
+Comparing [incident: 344] ...	States: ✓			
+Comparing [incident: 345] ...	States: ✓			
+Comparing [incident: 346] ...	States: ✓			
+Comparing [incident: 347] ...	States: ✓			
+Comparing [incident: 348] ...	States: ✓			
+Comparing [incident: 349] ...	States: ✓			
+Comparing [incident: 350] ...	States: ✓			
+Comparing [incident: 351] ...	States: ✓			
+Comparing [incident: 352] ...	States: ✓			
+Comparing [incident: 353] ...	States: ✓			
+Comparing [incident: 354] ...	States: ✓			
+Comparing [incident: 355] ...	States: ✓			
+Comparing [incident: 356] ...	States: ✓			
+Comparing [incident: 357] ...	States: ✓			
+Comparing [incident: 358] ...	States: ✓			
+Comparing [incident: 359] ...	States: ! [North Carolina vs North Carolina & Virginia]	
+Comparing [incident: 360] ...	States: ✓			
+Comparing [incident: 361] ...	States: ✓			
+Comparing [incident: 362] ...	States: ✓			
+Comparing [incident: 363] ...	States: ✓			
+Comparing [incident: 364] ...	States: ✓			
+Comparing [incident: 365] ...	States: ✓			
+Comparing [incident: 366] ...	States: ✓			
+Comparing [incident: 367] ...	States: ✓			
+Comparing [incident: 368] ...	States: ✓			
+Comparing [incident: 369] ...	States: ✓			
+Comparing [incident: 370] ...	States: ✓			
+Comparing [incident: 371] ...	States: ✓			
+Comparing [incident: 372] ...	States: ✓			
+Comparing [incident: 373] ...	States: ✓			
+Comparing [incident: 374] ...	States: ✓			
+Comparing [incident: 375] ...	States: ✓			
+Comparing [incident: 376] ...	States: ✓			
+Comparing [incident: 377] ...	States: ✓			
+Comparing [incident: 378] ...	States: ✓			
+Comparing [incident: 379] ...	States: ✓			
+Comparing [incident: 380] ...	States: ✓			
+Comparing [incident: 381] ...	States: ✓			
+Comparing [incident: 382] ...	States: ✓			
+Comparing [incident: 383] ...	States: ✓			
+Comparing [incident: 384] ...	States: ✓			
+Comparing [incident: 385] ...	States: ✓			
+Comparing [incident: 386] ...	States: ✓			
+Comparing [incident: 387] ...	States: ✓			
+Comparing [incident: 388] ...	States: ✓			
+Comparing [incident: 389] ...	States: ✓			
+Comparing [incident: 390] ...	States: ✓			
+Comparing [incident: 391] ...	States: ✓			
+Comparing [incident: 392] ...	States: ✓			
+Comparing [incident: 393] ...	States: ✓			
+Comparing [incident: 394] ...	States: ✓			
+Comparing [incident: 395] ...	States: ✓			
+Comparing [incident: 396] ...	States: ✓			
+Comparing [incident: 397] ...	States: ✓			
+Comparing [incident: 398] ...	States: ✓			
+Comparing [incident: 399] ...	States: ✓			
+Comparing [incident: 400] ...	States: ✓			
+Comparing [incident: 401] ...	States: ✓			
+Comparing [incident: 402] ...	States: ✓			
+Comparing [incident: 403] ...	States: ✓			
+Comparing [incident: 404] ...	States: ✓			
+Comparing [incident: 405] ...	States: ✓			
+Comparing [incident: 406] ...	States: ✓			
+Comparing [incident: 407] ...	States: ✓			
+Comparing [incident: 408] ...	States: ✓			
+Comparing [incident: 409] ...	States: ✓			
+Comparing [incident: 410] ...	States: ✓			
+Comparing [incident: 411] ...	States: ✓			
+Comparing [incident: 412] ...	States: ✓			
+Comparing [incident: 413] ...	States: ✓			
+Comparing [incident: 414] ...	States: ✓			
+Comparing [incident: 415] ...	States: ✓			
+Comparing [incident: 416] ...	States: ✓			
+Comparing [incident: 417] ...	States: ✓			
+Comparing [incident: 418] ...	States: ✓			
+Comparing [incident: 419] ...	States: ✓			
+Comparing [incident: 420] ...	States: ✓			
+Comparing [incident: 421] ...	States: ✓			
+Comparing [incident: 422] ...	States: ✓			
+Comparing [incident: 423] ...	States: ✓			
+Comparing [incident: 424] ...	States: ✓			
+Comparing [incident: 425] ...	States: ✓			
+Comparing [incident: 426] ...	States: ✓			
+Comparing [incident: 427] ...	States: ✓			
+Comparing [incident: 428] ...	States: ✓			
+Comparing [incident: 429] ...	States: ✓			
+Comparing [incident: 430] ...	States: ✓			
+Comparing [incident: 431] ...	States: ✓			
+Comparing [incident: 432] ...	States: ✓			
+Comparing [incident: 433] ...	States: ✓			
+Comparing [incident: 434] ...	States: ✓			
+Comparing [incident: 435] ...	States: ✓			
+Comparing [incident: 436] ...	States: ✓			
+Comparing [incident: 437] ...	States: ✓			
+Comparing [incident: 438] ...	States: ✓			
+Comparing [incident: 439] ...	States: ✓			
+Comparing [incident: 440] ...	States: ✓			
+Comparing [incident: 441] ...	States: ✓			
+Comparing [incident: 442] ...	States: ✓			
+Comparing [incident: 443] ...	States: ✓			
+Comparing [incident: 444] ...	States: ✓			
+Comparing [incident: 445] ...	States: ✓			
+Comparing [incident: 446] ...	States: ✓			
+Comparing [incident: 447] ...	States: ✓			
+Comparing [incident: 448] ...	States: ✓			
+Comparing [incident: 449] ...	States: ✓			
+Comparing [incident: 450] ...	States: ✓			
+Comparing [incident: 451] ...	States: ✓			
+Comparing [incident: 452] ...	States: ✓			
+Comparing [incident: 453] ...	States: ✓			
+Comparing [incident: 454] ...	States: ✓			
+Comparing [incident: 455] ...	States: ✓			
+Comparing [incident: 456] ...	States: ✓			
+Comparing [incident: 457] ...	States: ✓			
+Comparing [incident: 458] ...	States: ✓			
+Comparing [incident: 459] ...	States: ✓			
+Comparing [incident: 460] ...	States: ✓			
+Comparing [incident: 461] ...	States: ✓			
+Comparing [incident: 462] ...	States: ✓			
+Comparing [incident: 463] ...	States: ✓			
+Comparing [incident: 464] ...	States: ✓			
+Comparing [incident: 465] ...	States: ✓			
+Comparing [incident: 466] ...	States: ✓			
+Comparing [incident: 467] ...	States: ✓			
+Comparing [incident: 468] ...	States: ✓			
+Comparing [incident: 469] ...	States: ✓			
+Comparing [incident: 470] ...	States: ✓			
+Comparing [incident: 471] ...	States: ✓			
+Comparing [incident: 472] ...	States: ✓			
+Comparing [incident: 473] ...	States: ✓			
+Comparing [incident: 474] ...	States: ✓			
+Comparing [incident: 475] ...	States: ✓			
+Comparing [incident: 476] ...	States: ✓			
+Comparing [incident: 477] ...	States: ✓			
+Comparing [incident: 478] ...	States: ✓			
+Comparing [incident: 479] ...	States: ✓			
+Comparing [incident: 480] ...	States: ✓			
+Comparing [incident: 481] ...	States: ✓			
+Comparing [incident: 482] ...	States: ✓			
+Comparing [incident: 483] ...	States: ✓			
+Comparing [incident: 484] ...	States: ✓			
+
+------------------
+Verifying Shooters
+------------------
+
+Comparing [incident: 1] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 2] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 3] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 4] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 5] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ! [NO vs YES]	Num Suicide: ! [0 vs 1]		At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 6] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 7] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 8] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 9] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 10] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 11] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 12] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 13] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 14] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 15] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 16] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 17] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs UNKNOWN]		Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 18] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 19] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 20] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 21] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 22] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 23] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 24] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 25] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 26] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 27] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 28] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 29] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 30] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 31] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 32] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 33] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 34] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 35] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 36] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 37] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 38] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 39] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 40] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 41] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 42] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 43] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 44] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 45] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 46] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 47] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 48] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 49] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 50] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 51] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 52] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 53] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 54] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 55] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 56] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 57] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 58] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 59] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 60] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 61] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 62] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 63] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 64] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 65] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 66] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 67] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [NO vs YES]		Num Arrested: ! [0 vs 1]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 68] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ! [NO vs YES]	Num Suicide: ! [0 vs 1]		At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 69] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 70] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 71] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 72] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 73] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 74] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ! [NO vs YES]	Num Suicide: ! [0 vs 1]		At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 75] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 76] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 77] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 78] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 79] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 80] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 81] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 82] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 83] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 84] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 85] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 86] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 87] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 88] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 89] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 90] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 91] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 92] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 93] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 94] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 95] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 96] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 97] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 98] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 99] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 100] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 101] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 102] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 103] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 104] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 105] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 106] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 107] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 108] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 109] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 110] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 111] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 112] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 113] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 114] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 115] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 116] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 117] ...	Multiple Shooters: ✓					Num Shooters: ! [3 vs 2]	Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ! [2 vs UNKNOWN]		Gender: ! [MALE & UNKNOWN & UNKNOWN vs MALE & UNKNOWN]	Age: ! [22 & UNKNOWN & UNKNOWN vs 22]	
+Comparing [incident: 118] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 119] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 120] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 121] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 122] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 123] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 124] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 125] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 126] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 127] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 128] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 129] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 130] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 131] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 132] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 133] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 134] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 135] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 136] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 137] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 138] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 139] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 140] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 141] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 142] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 143] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 144] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 145] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 146] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 147] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 148] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 149] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 150] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 151] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 152] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 153] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 154] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 155] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 156] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 157] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 158] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 159] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 160] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 161] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 162] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 163] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 164] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 165] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 166] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 167] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 168] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 169] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 170] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 171] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 172] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 173] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 174] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 175] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 176] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 177] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 178] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 179] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 180] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 181] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 182] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 183] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 184] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 185] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 186] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 187] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 188] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 189] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 190] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 191] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 192] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 193] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 194] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 195] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 196] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 197] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 198] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 199] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 200] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 201] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 202] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 203] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 204] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 205] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 206] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 207] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 208] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 209] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 210] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 211] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 212] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 213] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 214] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 215] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 216] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ! [NO vs YES]	Num Suicide: ! [0 vs 1]		At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 217] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 218] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 219] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 220] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 221] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 222] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 223] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 224] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 225] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 226] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 227] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 228] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 229] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 230] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 231] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 232] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 233] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 234] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 235] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 236] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 237] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 238] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 239] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 240] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 241] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 242] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 243] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 244] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 245] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 246] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 247] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 248] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 249] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 250] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 251] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 252] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 253] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 254] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 255] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 256] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 257] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 258] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 259] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 260] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 261] ...	Multiple Shooters: ! [NO vs UNKNOWN]	Num Shooters: ! [1 vs UNKNOWN]	Arrested: ✓					Num Arrested: ✓				Suicide: ! [NO vs UNKNOWN]	Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 262] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 263] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 264] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 265] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 266] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 267] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 268] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 269] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 270] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 271] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 272] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 273] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 274] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 275] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 276] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 277] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 278] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 279] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 280] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 281] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 282] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 283] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 284] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 285] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [NO vs YES]		Num Arrested: ! [0 vs 1]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 286] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 287] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 288] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 289] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 290] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 291] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 292] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 293] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 294] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 295] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 296] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [NO vs YES]		Num Arrested: ! [0 vs 1]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 297] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 298] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 299] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 300] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 301] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 302] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 303] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 304] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 305] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 306] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 307] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 308] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [NO vs YES]		Num Arrested: ! [0 vs 1]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 309] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 310] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 311] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 312] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 313] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 314] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 315] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 316] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 317] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 318] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 319] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 320] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 321] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 322] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 323] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 324] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 325] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 326] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 327] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 328] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 329] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 330] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 331] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 332] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 333] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 334] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 335] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 336] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 337] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 338] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 339] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 340] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 341] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 342] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 343] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 344] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 345] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 346] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 347] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 348] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 349] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 350] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 351] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 352] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 353] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 354] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 355] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 356] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 357] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 358] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 359] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 360] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 361] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 362] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 363] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 364] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 365] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 366] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 367] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 368] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 369] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 370] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 371] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 372] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 373] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 374] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 375] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 376] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 377] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 378] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 379] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 380] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 381] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 382] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 383] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 384] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 385] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 386] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 387] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 388] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 389] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 390] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 391] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 392] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 393] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 394] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 395] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 396] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 397] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 398] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 399] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 400] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 401] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 402] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 403] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 404] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 405] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 406] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 407] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 408] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 409] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 410] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 411] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 412] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 413] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 414] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 415] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 416] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 417] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 418] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 419] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 420] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 421] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 422] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 423] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 424] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 425] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 426] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 427] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 428] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 429] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 430] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 431] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 432] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 433] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 434] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 435] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 436] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 437] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 438] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 439] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 440] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 441] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 442] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 443] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 444] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 445] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 446] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 447] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 448] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 449] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 450] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 451] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 452] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 453] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 454] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 455] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 456] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 457] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 458] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 459] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 460] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 461] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 462] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 463] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 464] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 465] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 466] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 467] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 468] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 469] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 470] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 471] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 472] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 473] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 474] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 475] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 476] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 477] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 478] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 479] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 480] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 481] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 482] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 483] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 484] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			

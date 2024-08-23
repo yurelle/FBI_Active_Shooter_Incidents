@@ -1,0 +1,396 @@
+{
+    "TOTAL_INCIDENTS":   333,
+    "TOTAL_STATES":      44,
+    "TOTAL_CASUALTIES":  2851,
+    "TOTAL_DEATHS":      1062,
+    "TOTAL_WOUNDED":     1789,
+    "TOTAL_MASS-KILLINGS_(3+_DEATHS)": 135,
+    "NUM_SHOOTERS":           345,
+    "NUM_MALE_SHOOTERS":      332,
+    "NUM_FEMALE_SHOOTERS":    13,
+    "NUM_SUICIDES":           119,
+    "NUM_MALE_SUICIDES":      113,
+    "NUM_FEMALE_SUICIDES":    6,
+    "NUM_KILLED_BY_POLICE":   67,
+    "NUM_KILLED_BY_CIVILIAN": 4,
+    "NUM_ARRESTED":           150,
+    "NUM_AT_LARGE":   5,
+
+    "INCIDENTS_BY_STATE": {
+        "California":      42,
+        "Florida":         27,
+        "Texas":           25,
+        "Pennsylvania":    21,
+        "Ohio":            18,
+        "Washington":      14,
+        "Colorado":        13,
+        "Illinois":        11,
+        "Nevada":          10,
+        "New York":        10,
+        "Wisconsin":       10,
+        "Virginia":        9,
+        "Alabama":         8,
+        "Maryland":        8,
+        "Missouri":        8,
+        "New Mexico":      8,
+        "Tennessee":       8,
+        "Arizona":         7,
+        "Kansas":          6,
+        "Louisiana":       6,
+        "North Carolina":  6,
+        "Oregon":          5,
+        "Georgia":         4,
+        "Indiana":         4,
+        "Kentucky":        4,
+        "Minnesota":       4,
+        "Oklahoma":        4,
+        "South Carolina":  4,
+        "District of Columbia": 3,
+        "Idaho":           3,
+        "Michigan":        3,
+        "Nebraska":        3,
+        "New Jersey":      3,
+        "Arkansas":        2,
+        "Connecticut":     2,
+        "Mississippi":     2,
+        "Hawaii":          1,
+        "Iowa":            1,
+        "Massachusetts":   1,
+        "North Dakota":    1,
+        "South Dakota":    1,
+        "Utah":            1,
+        "Vermont":         1,
+        "West Virginia":   1,
+        "Alaska":          0,
+        "Delaware":        0,
+        "Maine":           0,
+        "Montana":         0,
+        "New Hampshire":   0,
+        "Rhode Island":    0,
+        "Wyoming":         0
+    },
+    
+    "TOTAL_INCIDENTS_BY_YEAR": {
+        "2000": {
+            "ORIGINAL_INCIDENTS": 1,
+            "ADDITIONAL": 2,
+            "TOTAL": 3
+        },
+        "2001": {
+            "ORIGINAL_INCIDENTS": 6,
+            "ADDITIONAL": 4,
+            "TOTAL": 10
+        },
+        "2002": {
+            "ORIGINAL_INCIDENTS": 4,
+            "ADDITIONAL": 3,
+            "TOTAL": 7
+        },
+        "2003": {
+            "ORIGINAL_INCIDENTS": 11,
+            "ADDITIONAL": 1,
+            "TOTAL": 12
+        },
+        "2004": {
+            "ORIGINAL_INCIDENTS": 4,
+            "ADDITIONAL": 1,
+            "TOTAL": 5
+        },
+        "2005": {
+            "ORIGINAL_INCIDENTS": 9,
+            "ADDITIONAL": 2,
+            "TOTAL": 11
+        },
+        "2006": {
+            "ORIGINAL_INCIDENTS": 10,
+            "ADDITIONAL": 2,
+            "TOTAL": 12
+        },
+        "2007": {
+            "ORIGINAL_INCIDENTS": 14,
+            "ADDITIONAL": 0,
+            "TOTAL": 14
+        },
+        "2008": {
+            "ORIGINAL_INCIDENTS": 8,
+            "ADDITIONAL": 1,
+            "TOTAL": 9
+        },
+        "2009": {
+            "ORIGINAL_INCIDENTS": 19,
+            "ADDITIONAL": 0,
+            "TOTAL": 19
+        },
+        "2010": {
+            "ORIGINAL_INCIDENTS": 26,
+            "ADDITIONAL": 1,
+            "TOTAL": 27
+        },
+        "2011": {
+            "ORIGINAL_INCIDENTS": 10,
+            "ADDITIONAL": 3,
+            "TOTAL": 13
+        },
+        "2012": {
+            "ORIGINAL_INCIDENTS": 21,
+            "ADDITIONAL": 0,
+            "TOTAL": 21
+        },
+        "2013": {
+            "ORIGINAL_INCIDENTS": 17,
+            "ADDITIONAL": 2,
+            "TOTAL": 19
+        },
+        "2014": {
+            "ORIGINAL_INCIDENTS": 20,
+            "ADDITIONAL": 0,
+            "TOTAL": 20
+        },
+        "2015": {
+            "ORIGINAL_INCIDENTS": 20,
+            "ADDITIONAL": 0,
+            "TOTAL": 20
+        },
+        "2016": {
+            "ORIGINAL_INCIDENTS": 20,
+            "ADDITIONAL": 0,
+            "TOTAL": 20
+        },
+        "2017": {
+            "ORIGINAL_INCIDENTS": 30,
+            "ADDITIONAL": 1,
+            "TOTAL": 31
+        },
+        "2018": {
+            "ORIGINAL_INCIDENTS": 27,
+            "ADDITIONAL": 3,
+            "TOTAL": 30
+        },
+        "2019": {
+            "ORIGINAL_INCIDENTS": 28,
+            "ADDITIONAL": 2,
+            "TOTAL": 30
+        }
+    },
+    
+    "CASUALTIES_BY_YEAR": {
+        "2000": {
+            "KILLED": 16,
+            "WOUNDED": 2
+        },
+        "2001": {
+            "KILLED": 26,
+            "WOUNDED": 59
+        },
+        "2002": {
+            "KILLED": 18,
+            "WOUNDED": 24
+        },
+        "2003": {
+            "KILLED": 33,
+            "WOUNDED": 22
+        },
+        "2004": {
+            "KILLED": 17,
+            "WOUNDED": 9
+        },
+        "2005": {
+            "KILLED": 30,
+            "WOUNDED": 31
+        },
+        "2006": {
+            "KILLED": 26,
+            "WOUNDED": 28
+        },
+        "2007": {
+            "KILLED": 69,
+            "WOUNDED": 57
+        },
+        "2008": {
+            "KILLED": 33,
+            "WOUNDED": 34
+        },
+        "2009": {
+            "KILLED": 65,
+            "WOUNDED": 78
+        },
+        "2010": {
+            "KILLED": 38,
+            "WOUNDED": 53
+        },
+        "2011": {
+            "KILLED": 45,
+            "WOUNDED": 66
+        },
+        "2012": {
+            "KILLED": 90,
+            "WOUNDED": 118
+        },
+        "2013": {
+            "KILLED": 50,
+            "WOUNDED": 52
+        },
+        "2014": {
+            "KILLED": 36,
+            "WOUNDED": 61
+        },
+        "2015": {
+            "KILLED": 56,
+            "WOUNDED": 78
+        },
+        "2016": {
+            "KILLED": 83,
+            "WOUNDED": 131
+        },
+        "2017": {
+            "KILLED": 143,
+            "WOUNDED": 591
+        },
+        "2018": {
+            "KILLED": 86,
+            "WOUNDED": 139
+        },
+        "2019": {
+            "KILLED": 102,
+            "WOUNDED": 156
+        }
+    },
+    
+    "SHOOTER_OUTCOMES_BY_YEAR": {
+        "2000": {
+            "SUICIDES": 0,
+            "APPREHENDED": 3,
+            "KILLED": 0,
+            "AT_LARGE": 0
+        },
+        "2001": {
+            "SUICIDES": 4,
+            "APPREHENDED": 6,
+            "KILLED": 0,
+            "AT_LARGE": 0
+        },
+        "2002": {
+            "SUICIDES": 3,
+            "APPREHENDED": 2,
+            "KILLED": 2,
+            "AT_LARGE": 0
+        },
+        "2003": {
+            "SUICIDES": 5,
+            "APPREHENDED": 6,
+            "KILLED": 1,
+            "AT_LARGE": 0
+        },
+        "2004": {
+            "SUICIDES": 2,
+            "APPREHENDED": 2,
+            "KILLED": 1,
+            "AT_LARGE": 0
+        },
+        "2005": {
+            "SUICIDES": 5,
+            "APPREHENDED": 5,
+            "KILLED": 0,
+            "AT_LARGE": 1
+        },
+        "2006": {
+            "SUICIDES": 4,
+            "APPREHENDED": 8,
+            "KILLED": 1,
+            "AT_LARGE": 0
+        },
+        "2007": {
+            "SUICIDES": 9,
+            "APPREHENDED": 2,
+            "KILLED": 3,
+            "AT_LARGE": 0
+        },
+        "2008": {
+            "SUICIDES": 4,
+            "APPREHENDED": 3,
+            "KILLED": 2,
+            "AT_LARGE": 0
+        },
+        "2009": {
+            "SUICIDES": 5,
+            "APPREHENDED": 13,
+            "KILLED": 1,
+            "AT_LARGE": 0
+        },
+        "2010": {
+            "SUICIDES": 12,
+            "APPREHENDED": 9,
+            "KILLED": 5,
+            "AT_LARGE": 1
+        },
+        "2011": {
+            "SUICIDES": 5,
+            "APPREHENDED": 6,
+            "KILLED": 3,
+            "AT_LARGE": 2
+        },
+        "2012": {
+            "SUICIDES": 10,
+            "APPREHENDED": 8,
+            "KILLED": 4,
+            "AT_LARGE": 0
+        },
+        "2013": {
+            "SUICIDES": 6,
+            "APPREHENDED": 8,
+            "KILLED": 7,
+            "AT_LARGE": 0
+        },
+        "2014": {
+            "SUICIDES": 9,
+            "APPREHENDED": 5,
+            "KILLED": 7,
+            "AT_LARGE": 0
+        },
+        "2015": {
+            "SUICIDES": 7,
+            "APPREHENDED": 7,
+            "KILLED": 7,
+            "AT_LARGE": 0
+        },
+        "2016": {
+            "SUICIDES": 2,
+            "APPREHENDED": 10,
+            "KILLED": 8,
+            "AT_LARGE": 0
+        },
+        "2017": {
+            "SUICIDES": 11,
+            "APPREHENDED": 17,
+            "KILLED": 3,
+            "AT_LARGE": 0
+        },
+        "2018": {
+            "SUICIDES": 10,
+            "APPREHENDED": 13,
+            "KILLED": 6,
+            "AT_LARGE": 1
+        },
+        "2019": {
+            "SUICIDES": 6,
+            "APPREHENDED": 17,
+            "KILLED": 10,
+            "AT_LARGE": 0
+        }
+    },
+    
+    "LOCATION_TYPES": {
+        "BUSINESS_OPEN_TO_PEDESTRIANS": 96,
+        "BUSINESS_CLOSED_TO_PEDESTRIANS": 41,
+        "MALLS": 10,
+        "HIGHER_ED": 18,
+        "K-12": 44,
+        "GOVERNMENT": 21,
+        "MILITARY": 9,
+        "HEALTH_CARE": 15,
+        "HOUSE_OF_WORSHIP": 15,
+        "OPEN_SPACE": 50,
+        "RESIDENCE": 13,
+        "OTHER": 1
+    }
+}

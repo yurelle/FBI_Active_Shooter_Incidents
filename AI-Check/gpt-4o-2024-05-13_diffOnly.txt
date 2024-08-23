@@ -1,0 +1,36 @@
+------------------------------
+Verifying Direct Single Values
+------------------------------
+
+Comparing [incident: 141] ...	Deaths: ! [27 vs 26]	Wounded: ✓				Time: ✓			
+Comparing [incident: 300] ...	Deaths: ✓			Wounded: ! [4 vs 5]		Time: ✓			
+Comparing [incident: 346] ...	Deaths: ✓			Wounded: ! [4 vs 5]		Time: ✓			
+
+----------------
+Verifying States
+----------------
+
+Comparing [incident: 359] ...	States: ! [North Carolina vs North Carolina & Virginia]	
+
+------------------
+Verifying Shooters
+------------------
+
+Comparing [incident: 5] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ! [NO vs YES]	Num Suicide: ! [0 vs 1]		At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 14] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 17] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs UNKNOWN]		Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 67] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [NO vs YES]		Num Arrested: ! [0 vs 1]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 68] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ! [NO vs YES]	Num Suicide: ! [0 vs 1]		At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 72] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 74] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ! [NO vs YES]	Num Suicide: ! [0 vs 1]		At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 76] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 97] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 99] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 117] ...	Multiple Shooters: ✓					Num Shooters: ! [3 vs 2]	Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ! [2 vs UNKNOWN]		Gender: ! [MALE & UNKNOWN & UNKNOWN vs MALE & UNKNOWN]	Age: ! [22 & UNKNOWN & UNKNOWN vs 22]	
+Comparing [incident: 174] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 216] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ! [NO vs YES]	Num Suicide: ! [0 vs 1]		At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 223] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ! [1 vs 0]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 261] ...	Multiple Shooters: ! [NO vs UNKNOWN]	Num Shooters: ! [1 vs UNKNOWN]	Arrested: ✓					Num Arrested: ✓				Suicide: ! [NO vs UNKNOWN]	Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 285] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [NO vs YES]		Num Arrested: ! [0 vs 1]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 296] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [NO vs YES]		Num Arrested: ! [0 vs 1]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 308] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [NO vs YES]		Num Arrested: ! [0 vs 1]	Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			

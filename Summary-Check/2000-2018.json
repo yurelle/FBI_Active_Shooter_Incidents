@@ -1,0 +1,142 @@
+{
+    "OVERALL_STATISTICS": {
+        "TOTAL_INCIDENTS": 277,
+        "TOTAL_CASUALTIES": 2430,
+        "TOTAL_DEATHS": 884,
+        "TOTAL_WOUNDED": 1546
+    },
+    
+    "INCIDENTS_PER_YEAR": {
+        "2000": 1,
+        "2001": 6,
+        "2002": 4,
+        "2003": 11,
+        "2004": 4,
+        "2005": 9,
+        "2006": 10,
+        "2007": 14,
+        "2008": 8,
+        "2009": 19,
+        "2010": 26,
+        "2011": 10,
+        "2012": 21,
+        "2013": 17,
+        "2014": 20,
+        "2015": 20,
+        "2016": 20,
+        "2017": 30,
+        "2018": 27
+    },
+
+    "CASUALTIES_PER_YEAR": {
+        "2000": 7,
+        "2001": 43,
+        "2002": 29,
+        "2003": 51,
+        "2004": 20,
+        "2005": 51,
+        "2006": 46,
+        "2007": 126,
+        "2008": 63,
+        "2009": 143,
+        "2010": 86,
+        "2011": 84,
+        "2012": 208,
+        "2013": 86,
+        "2014": 97,
+        "2015": 134,
+        "2016": 214,
+        "2017": 729,
+        "2018": 213
+    },
+    
+    "CASUALTY_BREAKDOWN": {
+        "2000": {
+            "KILLED": 7,
+            "WOUNDED": 0
+        },
+        "2001": {
+            "KILLED": 12,
+            "WOUNDED": 31
+        },
+        "2002": {
+            "KILLED": 11,
+            "WOUNDED": 18
+        },
+        "2003": {
+            "KILLED": 29,
+            "WOUNDED": 22
+        },
+        "2004": {
+            "KILLED": 14,
+            "WOUNDED": 6
+        },
+        "2005": {
+            "KILLED": 24,
+            "WOUNDED": 27
+        },
+        "2006": {
+            "KILLED": 23,
+            "WOUNDED": 23
+        },
+        "2007": {
+            "KILLED": 69,
+            "WOUNDED": 57
+        },
+        "2008": {
+            "KILLED": 29,
+            "WOUNDED": 34
+        },
+        "2009": {
+            "KILLED": 65,
+            "WOUNDED": 78
+        },
+        "2010": {
+            "KILLED": 37,
+            "WOUNDED": 49
+        },
+        "2011": {
+            "KILLED": 32,
+            "WOUNDED": 52
+        },
+        "2012": {
+            "KILLED": 90,
+            "WOUNDED": 118
+        },
+        "2013": {
+            "KILLED": 44,
+            "WOUNDED": 42
+        },
+        "2014": {
+            "KILLED": 36,
+            "WOUNDED": 61
+        },
+        "2015": {
+            "KILLED": 56,
+            "WOUNDED": 78
+        },
+        "2016": {
+            "KILLED": 83,
+            "WOUNDED": 131
+        },
+        "2017": {
+            "KILLED": 138,
+            "WOUNDED": 591
+        },
+        "2018": {
+            "KILLED": 85,
+            "WOUNDED": 128
+        }
+    },
+    
+    "INCIDENTS_BY_LOCATION_TYPE": {
+        "Commerce": 121,
+        "Education": 57,
+        "Government": 26,
+        "Health Care": 12,
+        "House of Worship": 11,
+        "Open Space": 37,
+        "Other": 1,
+        "Residence": 12
+    }
+}

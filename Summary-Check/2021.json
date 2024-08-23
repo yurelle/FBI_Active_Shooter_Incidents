@@ -1,0 +1,79 @@
+{
+	"TOTAL_INCIDENTS":   61,
+	"TOTAL_STATES":      30,
+	"TOTAL_CASUALTIES":  243,
+	"TOTAL_DEATHS":      103,
+	"TOTAL_WOUNDED":     140,
+	"TOTAL_MASS-KILLINGS_(3+_DEATHS)": 12,
+	"NUM_TIMES_LAW_ENFORCEMENT_ENGAGED_THE_SHOOTER": 17,
+	"NUM_SHOOTERS":           61,
+	"NUM_MALE_SHOOTERS":      60,
+	"NUM_FEMALE_SHOOTERS":    1,
+	"NUM_SUICIDES":           11,
+	"NUM_KILLED_BY_POLICE":   14,
+	"NUM_KILLED_BY_CIVILIAN": 4,
+	"NUM_ARRESTED":           30,
+	"NUM_AT_LARGE":           1,
+    
+    "INCIDENTS_BY_STATE": {
+        "California": 6,
+        "Georgia": 5,
+        "Texas": 5,
+        "Colorado": 4,
+        "Florida": 4,
+        "Indiana": 3,
+        "Michigan": 3,
+        "North Carolina": 3,
+        "Tennessee": 3,
+        "Alabama": 2,
+        "Arizona": 2,
+        "Illinois": 2,
+        "Maryland": 2,
+        "Nevada": 2,
+        "South Carolina": 2,
+        "Arkansas": 1,
+        "Connecticut": 1,
+        "Idaho": 1,
+        "Kansas": 1,
+        "Kentucky": 1,
+        "Louisiana": 1,
+        "Massachusetts": 1,
+        "Minnesota": 1,
+        "Mississippi": 1,
+        "Missouri": 1,
+        "Nebraska": 1,
+        "New York": 1,
+        "Ohio": 1,
+        "Pennsylvania": 1,
+        "Wisconsin": 1
+    },
+    
+    "SHOOTER_BY_AGE_GROUP": {
+        "<=18": 2,
+        "19-24": 14,
+        "25-34": 18,
+        "35-44": 10,
+        "45-54": 9,
+        "55-64": 6,
+        "65+": 1,
+        "Unknown": 1
+    },
+    
+    "INCIDENT_RESOLUTIONS": {
+        "Apprehended": 30,
+        "At Large": 1,
+        "Killed": 19,
+        "Suicide": 11
+    },
+    
+    "INCIDENTS_BY_LOCATION_TYPE": {
+        "Commerce": 32,
+        "Education": 2,
+        "Government": 3,
+        "Open Space": 19,
+        "Residence": 3,
+        "House of Worship": 1,
+        "Health Care": 1,
+        "Other": 0
+    }
+}

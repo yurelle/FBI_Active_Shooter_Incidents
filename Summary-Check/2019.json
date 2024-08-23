@@ -1,0 +1,61 @@
+{
+	"TOTAL_INCIDENTS":   28,
+	"TOTAL_STATES":      16,
+	"TOTAL_CASUALTIES":  247,
+	"TOTAL_DEATHS":      97,
+	"TOTAL_WOUNDED":     150,
+	"TOTAL_MASS-KILLINGS_(3+_DEATHS)": 12,
+	"NUM_TIMES_LAW_ENFORCEMENT_ENGAGED_THE_SHOOTER": 11,
+	"NUM_SHOOTERS":           30,
+	"NUM_MALE_SHOOTERS":      29,
+	"NUM_FEMALE_SHOOTERS":    1,
+	"NUM_SUICIDES":           5,
+	"NUM_KILLED_BY_POLICE":   9,
+	"NUM_KILLED_BY_CIVILIAN": 1,
+	"NUM_ARRESTED":           15,
+    
+    "INCIDENTS_BY_STATE": {
+        "Texas": 6,
+        "California": 5,
+        "Florida": 3,
+        "Illinois": 2,
+        "Colorado": 1,
+        "Hawaii": 1,
+        "Kentucky": 1,
+        "Mississippi": 1,
+        "New Jersey": 1,
+        "North Carolina": 1,
+        "Ohio": 1,
+        "Oklahoma": 1,
+        "Pennsylvania": 1,
+        "South Carolina": 1,
+        "Virginia": 1,
+        "Washington": 1
+    },
+    
+    "INCIDENT_RESOLUTIONS": {
+        "Suicide": 5,
+        "Killed": 10,
+        "Apprehended": 15
+    },
+    
+    "SHOOTER_BY_AGE_GROUP": {
+        "<20": 5,
+        "20-29": 13,
+        "30-39": 4,
+        "40-49": 5,
+        "50-59": 2,
+        "60-69": 1
+    },
+    
+    "INCIDENTS_BY_LOCATION_TYPE": {
+        "Commerce": 12,
+        "Education": 3,
+        "Government": 4,
+        "Open Space": 5,
+        "Residence": 0,
+        "House of Worship": 2,
+        "Health Care": 2,
+        "Other": 0
+    }
+}

@@ -1,0 +1,756 @@
+=======================================
+=======================================
+=======================================
+==========                   ==========
+==========     2000-2018     ==========
+==========                   ==========
+=======================================
+=======================================
+=======================================
+
+
+-----------------------
+Verifying Overall Stats
+-----------------------
+
+TOTAL_INCIDENTS: ✓			
+TOTAL_CASUALTIES: ✓			
+TOTAL_DEATHS: ✓			
+TOTAL_WOUNDED: ✓			
+
+
+-----------------------------------------
+Verifying Incidents & Casualties Per Year
+-----------------------------------------
+
+Comparing [2000] ...	Incidents: ✓			Casualties: ✓			Deaths: ✓			Wounded: ✓			
+Comparing [2001] ...	Incidents: ✓			Casualties: ✓			Deaths: ✓			Wounded: ✓			
+Comparing [2002] ...	Incidents: ✓			Casualties: ✓			Deaths: ✓			Wounded: ✓			
+Comparing [2003] ...	Incidents: ✓			Casualties: ✓			Deaths: ✓			Wounded: ✓			
+Comparing [2004] ...	Incidents: ✓			Casualties: ✓			Deaths: ✓			Wounded: ✓			
+Comparing [2005] ...	Incidents: ✓			Casualties: ✓			Deaths: ✓			Wounded: ✓			
+Comparing [2006] ...	Incidents: ✓			Casualties: ✓			Deaths: ✓			Wounded: ✓			
+Comparing [2007] ...	Incidents: ✓			Casualties: ✓			Deaths: ✓			Wounded: ✓			
+Comparing [2008] ...	Incidents: ✓			Casualties: ✓			Deaths: ✓			Wounded: ✓			
+Comparing [2009] ...	Incidents: ✓			Casualties: ✓			Deaths: ✓			Wounded: ✓			
+Comparing [2010] ...	Incidents: ✓			Casualties: ✓			Deaths: ✓			Wounded: ✓			
+Comparing [2011] ...	Incidents: ✓			Casualties: ✓			Deaths: ✓			Wounded: ✓			
+Comparing [2012] ...	Incidents: ✓			Casualties: ✓			Deaths: ✓			Wounded: ✓			
+Comparing [2013] ...	Incidents: ✓			Casualties: ✓			Deaths: ✓			Wounded: ✓			
+Comparing [2014] ...	Incidents: ✓			Casualties: ✓			Deaths: ✓			Wounded: ✓			
+Comparing [2015] ...	Incidents: ✓			Casualties: ✓			Deaths: ✓			Wounded: ✓			
+Comparing [2016] ...	Incidents: ✓			Casualties: ✓			Deaths: ✓			Wounded: ✓			
+Comparing [2017] ...	Incidents: ✓			Casualties: ✓			Deaths: ✓			Wounded: ✓			
+Comparing [2018] ...	Incidents: ✓			Casualties: ✓			Deaths: ✓			Wounded: ✓			
+
+-----------------------
+Verifying Location Type
+-----------------------
+
+Commerce: ✓			
+Education: ✓			
+Government: ✓			
+Health Care: ✓			
+House of Worship: ✓			
+Open Space: ✓			
+Other: ✓			
+Residence: ✓			
+
+==================================================
+==================================================
+==================================================
+==========                              ==========
+==========             2018             ==========
+==========     [2019 Previous Year]     ==========
+==========                              ==========
+==================================================
+==================================================
+==================================================
+
+
+-----------------------
+Verifying Overall Stats
+-----------------------
+
+Incidents: ✓			
+States: ✓			
+Casualties: ✓			
+Deaths: ✓			
+Wounded: ✓			
+Mass Killings: ✓			
+Engaged Shooters: ✓			
+All Shooters: ✓			
+Male Shooters: ✓			
+Female Shooters: ✓			
+Suicides: ✓			
+Killed By Police: ✓			
+Killed By Civilians: ✓			
+Arrested: ✓			
+
+==================================
+==================================
+==================================
+==========              ==========
+==========     2019     ==========
+==========              ==========
+==================================
+==================================
+==================================
+
+
+-----------------------
+Verifying Overall Stats
+-----------------------
+
+Incidents: ✓			
+States: ✓			
+Casualties: ✓			
+Deaths: ✓			
+Wounded: ✓			
+Mass Killings: ✓			
+Engaged Shooters: ✓			
+All Shooters: ✓			
+Male Shooters: ✓			
+Female Shooters: ✓			
+Suicides: ✓			
+Killed By Police: ✓			
+Killed By Civilians: ✓			
+Arrested: ✓			
+
+----------------------------
+Verifying Incidents By State
+----------------------------
+
+Texas: ✓			
+California: ✓			
+Florida: ✓			
+Illinois: ✓			
+Colorado: ✓			
+Hawaii: ✓			
+Kentucky: ✓			
+Mississippi: ✓			
+New Jersey: ✓			
+North Carolina: ✓			
+Ohio: ✓			
+Oklahoma: ✓			
+Pennsylvania: ✓			
+South Carolina: ✓			
+Virginia: ✓			
+Washington: ✓			
+Alabama: ✓			
+Alaska: ✓			
+Arizona: ✓			
+Arkansas: ✓			
+Connecticut: ✓			
+Delaware: ✓			
+District of Columbia: ✓			
+Georgia: ✓			
+Idaho: ✓			
+Indiana: ✓			
+Iowa: ✓			
+Kansas: ✓			
+Louisiana: ✓			
+Maine: ✓			
+Maryland: ✓			
+Massachusetts: ✓			
+Michigan: ✓			
+Minnesota: ✓			
+Missouri: ✓			
+Montana: ✓			
+Nebraska: ✓			
+Nevada: ✓			
+New Hampshire: ✓			
+New Mexico: ✓			
+New York: ✓			
+North Dakota: ✓			
+Oregon: ✓			
+Rhode Island: ✓			
+South Dakota: ✓			
+Tennessee: ✓			
+Utah: ✓			
+Vermont: ✓			
+West Virginia: ✓			
+Wisconsin: ✓			
+Wyoming: ✓			
+
+------------------------------
+Verifying Shooter By Age Group
+------------------------------
+
+<20: ✓			
+20-29: ✓			
+30-39: ✓			
+40-49: ✓			
+50-59: ✓			
+60-69: ✓			
+
+
+------------------------------
+Verifying Incident Resolutions
+------------------------------
+
+Suicide: ✓			
+Killed: ✓			
+Apprehended: ✓			
+
+-----------------------
+Verifying Location Type
+-----------------------
+
+Commerce: ✓			
+Education: ✓			
+Government: ✓			
+Health Care: ✓			
+House of Worship: ✓			
+Open Space: ✓			
+Other: ✓			
+Residence: ✓			
+
+==============================================
+==============================================
+==============================================
+==========                          ==========
+==========         2000-2019        ==========
+==========     [20-Year Review]     ==========
+==========                          ==========
+==============================================
+==============================================
+==============================================
+
+
+-----------------------
+Verifying Overall Stats
+-----------------------
+
+Incidents: ✓			
+States: ! [44 vs 45]	
+Casualties: ! [2851 vs 2852]	
+Deaths: ! [1062 vs 1063]	
+Wounded: ✓			
+Mass Killings: ! [135 vs 138]	
+All Shooters: ✓			
+Male Shooters: ! [332 vs 327]	
+Female Shooters: ✓			
+Suicides: ! [119 vs 118]	
+Killed By Police: ! [67 vs 65]	
+Killed By Civilians: ! [4 vs 5]	
+Arrested: ! [150 vs 152]	
+At Large: ! [5 vs 6]	
+
+----------------------------
+Verifying Incidents By State
+----------------------------
+
+California: ✓			
+Florida: ✓			
+Texas: ✓			
+Pennsylvania: ✓			
+Ohio: ! [18 vs 17]	
+Washington: ✓			
+Colorado: ✓			
+Illinois: ✓			
+Nevada: ✓			
+New York: ✓			
+Wisconsin: ✓			
+Virginia: ✓			
+Alabama: ✓			
+Maryland: ✓			
+Missouri: ✓			
+New Mexico: ✓			
+Tennessee: ✓			
+Arizona: ✓			
+North Carolina: ! [6 vs 7]	
+Kansas: ✓			
+Louisiana: ✓			
+Indiana: ! [4 vs 5]	
+Oregon: ✓			
+Georgia: ✓			
+Kentucky: ✓			
+Minnesota: ✓			
+Oklahoma: ✓			
+South Carolina: ✓			
+District of Columbia: ✓			
+Idaho: ✓			
+Michigan: ✓			
+Nebraska: ✓			
+New Jersey: ✓			
+Arkansas: ✓			
+Connecticut: ✓			
+Delaware: ! [0 vs 2]	
+Mississippi: ✓			
+Hawaii: ✓			
+Iowa: ✓			
+Massachusetts: ✓			
+North Dakota: ✓			
+South Dakota: ✓			
+Utah: ✓			
+Vermont: ✓			
+West Virginia: ✓			
+Alaska: ✓			
+Maine: ✓			
+Montana: ✓			
+New Hampshire: ✓			
+Rhode Island: ✓			
+Wyoming: ✓			
+
+-----------------------------------------
+Verifying Incidents & Casualties Per Year
+-----------------------------------------
+
+Comparing [2000] ...	Original Incidents: ✓			Additional Incidents: ✓			Total Incidents: ✓			Casualties: ✓				Deaths: ✓			Wounded: ✓			
+Comparing [2001] ...	Original Incidents: ✓			Additional Incidents: ✓			Total Incidents: ✓			Casualties: ✓				Deaths: ✓			Wounded: ✓			
+Comparing [2002] ...	Original Incidents: ✓			Additional Incidents: ✓			Total Incidents: ✓			Casualties: ✓				Deaths: ✓			Wounded: ✓			
+Comparing [2003] ...	Original Incidents: ✓			Additional Incidents: ✓			Total Incidents: ✓			Casualties: ✓				Deaths: ✓			Wounded: ✓			
+Comparing [2004] ...	Original Incidents: ✓			Additional Incidents: ✓			Total Incidents: ✓			Casualties: ✓				Deaths: ✓			Wounded: ✓			
+Comparing [2005] ...	Original Incidents: ✓			Additional Incidents: ✓			Total Incidents: ✓			Casualties: ✓				Deaths: ✓			Wounded: ✓			
+Comparing [2006] ...	Original Incidents: ✓			Additional Incidents: ✓			Total Incidents: ✓			Casualties: ! [54 vs 55]	Deaths: ✓			Wounded: ! [28 vs 29]	
+Comparing [2008] ...	Original Incidents: ✓			Additional Incidents: ✓			Total Incidents: ✓			Casualties: ✓				Deaths: ✓			Wounded: ✓			
+Comparing [2010] ...	Original Incidents: ✓			Additional Incidents: ✓			Total Incidents: ✓			Casualties: ✓				Deaths: ✓			Wounded: ✓			
+Comparing [2011] ...	Original Incidents: ✓			Additional Incidents: ✓			Total Incidents: ✓			Casualties: ✓				Deaths: ✓			Wounded: ✓			
+Comparing [2013] ...	Original Incidents: ✓			Additional Incidents: ✓			Total Incidents: ✓			Casualties: ✓				Deaths: ✓			Wounded: ✓			
+Comparing [2017] ...	Original Incidents: ✓			Additional Incidents: ✓			Total Incidents: ✓			Casualties: ✓				Deaths: ✓			Wounded: ✓			
+Comparing [2018] ...	Original Incidents: ✓			Additional Incidents: ✓			Total Incidents: ✓			Casualties: ✓				Deaths: ✓			Wounded: ✓			
+Comparing [2019] ...	Original Incidents: ✓			Additional Incidents: ✓			Total Incidents: ✓			Casualties: ✓				Deaths: ! [102 vs 103]	Wounded: ! [156 vs 155]	
+
+----------------------------------
+Verifying Shooter Outcomes By Year
+----------------------------------
+
+Comparing [2000] ...	Suicides: ✓				Arrested: ✓				Killed: ✓			At Large: ✓			
+Comparing [2001] ...	Suicides: ✓				Arrested: ✓				Killed: ✓			At Large: ✓			
+Comparing [2002] ...	Suicides: ✓				Arrested: ✓				Killed: ✓			At Large: ✓			
+Comparing [2003] ...	Suicides: ✓				Arrested: ✓				Killed: ✓			At Large: ✓			
+Comparing [2004] ...	Suicides: ✓				Arrested: ✓				Killed: ✓			At Large: ✓			
+Comparing [2005] ...	Suicides: ✓				Arrested: ✓				Killed: ✓			At Large: ✓			
+Comparing [2006] ...	Suicides: ✓				Arrested: ✓				Killed: ✓			At Large: ✓			
+Comparing [2007] ...	Suicides: ✓				Arrested: ✓				Killed: ✓			At Large: ✓			
+Comparing [2008] ...	Suicides: ✓				Arrested: ✓				Killed: ✓			At Large: ✓			
+Comparing [2009] ...	Suicides: ! [5 vs 4]	Arrested: ✓				Killed: ✓			At Large: ! [0 vs 1]	
+Comparing [2010] ...	Suicides: ✓				Arrested: ! [9 vs 10]	Killed: ! [5 vs 4]	At Large: ✓			
+Comparing [2011] ...	Suicides: ✓				Arrested: ✓				Killed: ✓			At Large: ✓			
+Comparing [2012] ...	Suicides: ✓				Arrested: ✓				Killed: ✓			At Large: ✓			
+Comparing [2013] ...	Suicides: ✓				Arrested: ✓				Killed: ✓			At Large: ✓			
+Comparing [2014] ...	Suicides: ✓				Arrested: ✓				Killed: ✓			At Large: ✓			
+Comparing [2015] ...	Suicides: ✓				Arrested: ✓				Killed: ✓			At Large: ✓			
+Comparing [2016] ...	Suicides: ✓				Arrested: ✓				Killed: ✓			At Large: ✓			
+Comparing [2017] ...	Suicides: ✓				Arrested: ! [17 vs 18]	Killed: ! [3 vs 2]	At Large: ✓			
+Comparing [2018] ...	Suicides: ✓				Arrested: ✓				Killed: ✓			At Large: ✓			
+Comparing [2019] ...	Suicides: ✓				Arrested: ✓				Killed: ✓			At Large: ✓			
+
+-----------------------
+Verifying Location Type
+-----------------------
+
+Commerce: ! [147 vs 148]	
+Education: ✓			
+Government: ✓			
+Health Care: ✓			
+House of Worship: ✓			
+Open Space: ! [50 vs 49]	
+Other: ✓			
+Residence: ✓			
+
+==================================
+==================================
+==================================
+==========              ==========
+==========     2020     ==========
+==========              ==========
+==================================
+==================================
+==================================
+
+
+-----------------------
+Verifying Overall Stats
+-----------------------
+
+Incidents: ✓			
+States: ✓			
+Casualties: ✓			
+Deaths: ✓			
+Wounded: ✓			
+Mass Killings: ✓			
+Engaged Shooters: ! [8 vs 9]	
+All Shooters: ✓			
+Male Shooters: ✓			
+Female Shooters: ✓			
+Unknown Shooters: ✓			
+Suicides: ✓			
+Killed By Police: ! [4 vs 5]	
+Killed By Civilians: ✓			
+Arrested: ! [24 vs 23]	
+At Large: ✓			
+
+----------------------------
+Verifying Incidents By State
+----------------------------
+
+California: ✓			
+Illinois: ✓			
+Florida: ✓			
+Missouri: ✓			
+Texas: ✓			
+Arizona: ✓			
+Idaho: ✓			
+New York: ✓			
+North Carolina: ✓			
+Oklahoma: ✓			
+South Carolina: ✓			
+Wisconsin: ✓			
+Alaska: ✓			
+Indiana: ✓			
+Kansas: ✓			
+Kentucky: ✓			
+Nebraska: ✓			
+Nevada: ✓			
+Tennessee: ✓			
+Alabama: ✓			
+Arkansas: ✓			
+Colorado: ✓			
+Connecticut: ✓			
+Delaware: ✓			
+District of Columbia: ✓			
+Georgia: ✓			
+Hawaii: ✓			
+Iowa: ✓			
+Louisiana: ✓			
+Maine: ✓			
+Maryland: ✓			
+Massachusetts: ✓			
+Michigan: ✓			
+Minnesota: ✓			
+Mississippi: ✓			
+Montana: ✓			
+New Hampshire: ✓			
+New Jersey: ✓			
+New Mexico: ✓			
+North Dakota: ✓			
+Ohio: ✓			
+Oregon: ✓			
+Pennsylvania: ✓			
+Rhode Island: ✓			
+South Dakota: ✓			
+Utah: ✓			
+Vermont: ✓			
+Virginia: ✓			
+Washington: ✓			
+West Virginia: ✓			
+Wyoming: ✓			
+
+------------------------------
+Verifying Shooter By Age Group
+------------------------------
+
+<=18: ✓			
+19-24: ✓			
+25-34: ✓			
+35-44: ✓			
+45-54: ✓			
+55-64: ✓			
+65-74: ✓			
+75+: ✓			
+
+
+------------------------------
+Verifying Incident Resolutions
+------------------------------
+
+Suicide: ✓			
+Killed: ! [6 vs 7]	
+Apprehended: ! [24 vs 23]	
+At Large: ✓			
+
+-----------------------
+Verifying Location Type
+-----------------------
+
+Commerce: ✓			
+Government: ✓			
+Open Space: ✓			
+Residence: ✓			
+Education: ✓			
+Health Care: ✓			
+House of Worship: ✓			
+Other: ✓			
+
+==================================
+==================================
+==================================
+==========              ==========
+==========     2021     ==========
+==========              ==========
+==================================
+==================================
+==================================
+
+
+-----------------------
+Verifying Overall Stats
+-----------------------
+
+Incidents: ✓			
+States: ✓			
+Casualties: ✓			
+Deaths: ✓			
+Wounded: ✓			
+Mass Killings: ✓			
+Engaged Shooters: ! [17 vs 21]	
+All Shooters: ✓			
+Male Shooters: ✓			
+Female Shooters: ✓			
+Suicides: ✓			
+Killed By Police: ! [14 vs 13]	
+Killed By Civilians: ! [4 vs 5]	
+Arrested: ✓			
+At Large: ✓			
+
+----------------------------
+Verifying Incidents By State
+----------------------------
+
+California: ✓			
+Georgia: ✓			
+Texas: ✓			
+Colorado: ✓			
+Florida: ✓			
+Indiana: ✓			
+Michigan: ✓			
+North Carolina: ✓			
+Tennessee: ✓			
+Alabama: ✓			
+Arizona: ✓			
+Illinois: ✓			
+Maryland: ✓			
+Nevada: ✓			
+South Carolina: ✓			
+Arkansas: ✓			
+Connecticut: ✓			
+Idaho: ✓			
+Kansas: ✓			
+Kentucky: ✓			
+Louisiana: ✓			
+Massachusetts: ✓			
+Minnesota: ✓			
+Mississippi: ✓			
+Missouri: ✓			
+Nebraska: ✓			
+New York: ✓			
+Ohio: ✓			
+Pennsylvania: ✓			
+Wisconsin: ✓			
+Alaska: ✓			
+Delaware: ✓			
+District of Columbia: ✓			
+Hawaii: ✓			
+Iowa: ✓			
+Maine: ✓			
+Montana: ✓			
+New Hampshire: ✓			
+New Jersey: ✓			
+New Mexico: ✓			
+North Dakota: ✓			
+Oklahoma: ✓			
+Oregon: ✓			
+Rhode Island: ✓			
+South Dakota: ✓			
+Utah: ✓			
+Vermont: ✓			
+Virginia: ✓			
+Washington: ✓			
+West Virginia: ✓			
+Wyoming: ✓			
+
+------------------------------
+Verifying Shooter By Age Group
+------------------------------
+
+<=18: ✓			
+19-24: ✓			
+25-34: ✓			
+35-44: ✓			
+45-54: ✓			
+55-64: ✓			
+65+: ✓			
+
+
+------------------------------
+Verifying Incident Resolutions
+------------------------------
+
+Suicide: ✓			
+Killed: ✓			
+Apprehended: ✓			
+At Large: ✓			
+
+-----------------------
+Verifying Location Type
+-----------------------
+
+Commerce: ✓			
+Education: ✓			
+Government: ✓			
+Health Care: ✓			
+House of Worship: ✓			
+Open Space: ✓			
+Residence: ✓			
+Other: ✓			
+
+==================================
+==================================
+==================================
+==========              ==========
+==========     2022     ==========
+==========              ==========
+==================================
+==================================
+==================================
+
+
+-----------------------
+Verifying Overall Stats
+-----------------------
+
+Incidents: ✓			
+States: ✓			
+Casualties: ✓			
+Deaths: ✓			
+Wounded: ✓			
+Mass Killings: ✓			
+Engaged Shooters: ! [9 vs 13]	
+All Shooters: ✓			
+Male Shooters: ! [47 vs 46]	
+Female Shooters: ✓			
+Non-Binary Shooters: ✓			
+Unknown Shooters: ! [1 vs 2]	
+Suicides: ✓			
+Killed By Police: ✓			
+Killed By Civilians: ✓			
+Arrested: ✓			
+At Large: ✓			
+
+----------------------------
+Verifying Incidents By State
+----------------------------
+
+Texas: ✓			
+Arizona: ✓			
+Florida: ✓			
+Georgia: ! [2 vs 3]	
+Michigan: ✓			
+New York: ✓			
+Alabama: ✓			
+Arkansas: ✓			
+California: ✓			
+Colorado: ✓			
+Maryland: ✓			
+Missouri: ✓			
+North Carolina: ✓			
+Oklahoma: ✓			
+Pennsylvania: ✓			
+South Carolina: ✓			
+Virginia: ! [1 vs 2]	
+District of Columbia: ✓			
+Illinois: ✓			
+Indiana: ✓			
+New Mexico: ✓			
+Ohio: ✓			
+Oregon: ✓			
+Tennessee: ✓			
+West Virginia: ✓			
+Wisconsin: ✓			
+Alaska: ✓			
+Connecticut: ✓			
+Delaware: ✓			
+Hawaii: ✓			
+Idaho: ✓			
+Iowa: ✓			
+Kansas: ✓			
+Kentucky: ✓			
+Louisiana: ✓			
+Maine: ✓			
+Massachusetts: ✓			
+Minnesota: ✓			
+Mississippi: ✓			
+Montana: ✓			
+Nebraska: ✓			
+Nevada: ✓			
+New Hampshire: ✓			
+New Jersey: ✓			
+North Dakota: ✓			
+Rhode Island: ✓			
+South Dakota: ✓			
+Utah: ✓			
+Vermont: ✓			
+Washington: ✓			
+Wyoming: ✓			
+
+------------------------------
+Verifying Shooter By Age Group
+------------------------------
+
+<=18: ✓			
+19-24: ✓			
+25-34: ✓			
+35-44: ✓			
+45-54: ✓			
+55-64: ✓			
+65+: ✓			
+
+
+------------------------------
+Verifying Incident Resolutions
+------------------------------
+
+Suicide: ✓			
+Killed: ✓			
+Apprehended: ✓			
+At Large: ✓			
+
+-----------------------
+Verifying Location Type
+-----------------------
+
+Commerce: ✓			
+Education: ✓			
+Government: ✓			
+Health Care: ✓			
+House of Worship: ✓			
+Open Space: ✓			
+Residence: ✓			
+Other: ✓			
+
+====================================================
+====================================================
+====================================================
+==========                                ==========
+==========         Location Type          ==========
+==========                                ==========
+==========     [  Proof my data is  ]     ==========
+==========     [  correct and FBI   ]     ==========
+==========     [  summary data      ]     ==========
+==========     [  is wrong          ]     ==========
+==========                                ==========
+====================================================
+====================================================
+====================================================
+
+
+---------------------------------------------------------------------------
+Verifying All Location Types (For All Years) Against Raw Event Descriptions
+---------------------------------------------------------------------------
+
+483 RawIncidentDescription records whose location type matches its RawIncidentTitle.
+Count ("483"): ✓			
+
+Only 1 RawIncidentDescription record whose location type does not match its RawIncidentTitle.
+Count ("1"): ✓			
+
+It is incident 323, where the FBI labeled it as "Residential" instead of "Residence", and I changed it to match the rest of the data.
+Incident ID ("323"): ✓			
+Raw Incident Title ("Omega Psi Phi Fraternity House (Residential)"): ✓			
+Location Type ("Residence"): ✓			
+
+Zero Incident records whose LocationType does not match the RawIncidentDescription's LocationType
+Count ("0"): ✓			
+
