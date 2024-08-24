@@ -1,50 +1,53 @@
-# FBI_Active_Shooter_Incidents_2000-2018
-A manual ETL of the primary data from the FBI's reports on active shooters incidents from 2000 to 2022, into a standardized structured dataset.
+# FBI_Active_Shooter_Incidents_2000-2022
+A manual ETL of the primary data from the FBI's reports on active shooter incidents from 2000 to 2022, into a standardized structured dataset.
 See:
-https://www.fbi.gov/file-repository/active-shooter-incidents-2000-2018.pdf/view
-https://www.fbi.gov/about/partnerships/office-of-partner-engagement/active-shooter-incidents-graphics
-https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2019-042820.pdf/view
-https://www.fbi.gov/file-repository/active-shooter-incidents-20-year-review-2000-2019-060121.pdf/view
-https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2020-070121.pdf/view
-https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2021-052422.pdf/view
-https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2022-042623.pdf/view
+
+* https://www.fbi.gov/file-repository/active-shooter-incidents-2000-2018.pdf/view
+* https://www.fbi.gov/about/partnerships/office-of-partner-engagement/active-shooter-incidents-graphics
+* https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2019-042820.pdf/view
+* https://www.fbi.gov/file-repository/active-shooter-incidents-20-year-review-2000-2019-060121.pdf/view
+* https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2020-070121.pdf/view
+* https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2021-052422.pdf/view
+* https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2022-042623.pdf/view
 
 ## Description
 This is my own manual conversion of the raw FBI Active Shooting Incident reports. I made an Excel spreadsheet for each of the FBI's PDF reports, and a MySQL Relational Database containing everything unified in one place. Both contain the same dataset; allowing different methods of analytical inspection. The Excel spreadsheets also contain links to news stories for each incident for which additional research was needed to resolve ambiguity in the FBI data, or to find the shooter's name.
 
-I've done my best to verify the data, but there might be some errors in my ETL processing. The raw incident reports total 61 pages of unstructured text that I had to read through & manually convert into precise mathematical data. I also had to do external research to disambiguate unspecified info, and some of the edge cases are a bit vague, and are difficult to put into fixed categories, while others come down to one's personal opinion, and the FBI did not document their's so it becomes rather difficult to make sure that I am comming to the same conclusion on ambiguity that they did.
+I've done my best to verify the data, but there might be some errors in my ETL processing. The raw incident reports total 61 pages of unstructured text that I had to read through & manually convert into precise mathematical data. I also had to do external research to disambiguate unspecified info, and some of the edge cases are a bit vague, and are difficult to put into fixed categories, while others come down to one's personal opinion, and the FBI did not document their's so it becomes rather difficult to make sure that I am coming to the same conclusion on ambiguity that they did.
 
-I used several different methods to verify that my data accurately reproduces the data in the reports. However, there are some discrepancies between my data, and the summary data in some of the reports, and I also discovered several errors & some more possible errors in the FBI's summary data.
+I used several different methods to verify that my data accurately reproduces the data in the reports. However, there are some discrepancies between my data, and the summary data in some of the reports, and I also discovered several errors & some more possible errors in the FBI's data.
 
-See the following sections for more:
+See the following sections for more info:
 * Automated Tests Against Summary Data
 * Secondary AI Verification
 * Known Errors (In the FBI Report's Summary Data)
 * Possible Errors
 
 ## How To Use
-This project consists of 2 views into the same dataset. The finalized, prebuilt version of both of these can be found in the "Pre-Built Datasets" folder.
-	A) Excel Spreadsheet:
-		There is a separate spreadsheet available for each datasource PDF. These spredsheets also include hyperlinks to any secondary research hich was necessary to resolve ambiguity in the FBI reports, or determine the shooter's name.
-		
-	B) Relational Database (Implemented via MySQL):
-		The build scripts are located in the folder "Incremental Build Scripts". Run them in order of their number prefix.
-		
-		Ex:
-			"00_BuildSchemaStructure.sql"
-			"01_PopulateLookupTables.sql"
-			"02_RawIncidentDescriptions.sql"
-			... and so on.
-		
-		One easy way to do this is via PHP My Admin within XAMPP. This project was built & tested on: XAMPP Version 8.2.12, on MariaDB 10.4.32 & phpMyAdmin 5.2.1
-			1. Open PHP My Admin via the "Admin" button for the MySQL service in the XAMPP control panel dialog.
-			2. Click the "Import" button in the toolbar at the top of the webpage.
-			3. Click the "Browse" button under the "File to import" section, and open the file "00_BuildSchemaStructure.sql". Leave the rest of the form with their defaults, and then click the "Import" button at the bottom of the page. Only import the first file this way. This builds the DB schema structure. There's a much easier way we'll import the rest of the files, but we can't do that without having the database schema created. So, we run the first script this way, to build the schema.
-			4. Once the first script finishes building the schema, click the "Databases" button in the toolbar at the top of the screen.
-			5. Click the link for the newly created "fbi_active_shooters" database from the listing.
-			6. Open windows explorer, and navigate to the "Incremental Build Scripts" folder.
-			7. Click and drag the script files, one-by-one, onto the webpage for the "fbi_active_shooter" database; wait for each file to finish executing before draging the next. They will execute against the active database schema, and open a small dialog in the bottom right corner of the page, showing a history of which files you've executed, in order, and with a progress bar for the active one.
-			8. Once you have executed the last script file, if there were no errors, then you're done, and the database is fully built.
+This project consists of 2 lenses into the same dataset. The spreadsheets can be found in the "RawReportData" folder, and SQL scripts to build the database can be found in the "Incremental Build Scripts" folder.
+
+### Excel Spreadsheets:
+There is a separate spreadsheet available for each datasource PDF. These spreadsheets also include hyperlinks to any secondary research which was necessary to resolve ambiguity in the FBI reports, or to determine the shooter's name.
+
+### Relational Database (Implemented via MySQL / MariaDB):
+The build scripts are located in the folder "Incremental Build Scripts". Run them in order of their number prefix.
+
+Ex:
+```
+"00_BuildSchemaStructure.sql"
+"01_PopulateLookupTables.sql"
+"02_RawIncidentDescriptions.sql"
+... and so on.
+```
+One easy way to do this is via PHP My Admin within XAMPP. This project was built & tested on: XAMPP Version 8.2.12, on MariaDB 10.4.32 & phpMyAdmin 5.2.1
+1. Open PHP My Admin via the "Admin" button for the MySQL service in the XAMPP control panel dialog.
+2. Click the "Import" button in the toolbar at the top of the webpage.
+3. Click the "Browse" button under the "File to import" section, and open the file "00_BuildSchemaStructure.sql". Leave the rest of the form with their defaults, and then click the "Import" button at the bottom of the page. Only import the first file this way. This builds the DB schema structure. There's a much easier way that we'll import the rest of the files, but we can't do that without having the database schema created first. So, we run the first script this way to build the schema.
+4. Once the first script finishes building the schema, click the "Databases" button in the toolbar at the top of the screen.
+5. Click the link for the newly created "fbi_active_shooters" database from the listing.
+6. Open windows explorer, and navigate to the "Incremental Build Scripts" folder.
+7. Starting with the "01__PopulateLookupTables.sql" script, since we already ran the "00_..." script, one-by-one, click and drag the script files onto the webpage for the "fbi_active_shooters" database. Wait for each file to finish executing before draging the next file. They will execute against the active database schema, and open a small dialog in the bottom right corner of the page, showing a history of which files you've executed, in order, and with a progress bar for the active one.
+8. Once you have executed the last script file, if there were no errors, then you're done, and the database is fully built, and ready to be used.
 
 
 ## DB Views
@@ -79,17 +82,17 @@ The available views are:
 
 There are a few other views, but they are mostly used to build these main views.
 
-It may be a little slow (up to 10 seconds or so), because PHP My Admin is not very efficient at parsing large datasets and converting them into HTML for display in the browser, but the actual DB side of things should return in well under 1 second for all views.
+It may be a little slow for the yearly ones (up to 10 seconds or so), because PHP My Admin is not very efficient at parsing large datasets and converting them into HTML for display in the browser, but the actual DB side of things should return in well under 1 second for all views.
 
 Obviously, if you know SQL, you can run more complex queries, but my goal was to provide easy access for those who may not be accustomed to databases.
 
 ## Data Duplication: Multi-State & Multi-Shooter Incidents
-Depending upon how you query the database, a small portion of data may or may not be duplicated. However, there are ways to query the data which avoids the duplication entirely. Typically, only queries which break the data out by state or by shooter, end up incuring this duplication.
+Depending upon how you query the database, a small portion of data may or may not be duplicated. However, there are ways to query the data which avoids the duplication entirely. Typically, only queries which group the incident & casualty data by State or by shooter, end up incurring this duplication. The views which display the number of shooters by attributes of the shooter (ex: gender, age, fate, etc.), do not duplicate any data.
 
-When grouping by state, the duplicated data accounts for around 1% of the total casualty data (See tables below). When grouping by shooter, the duplicated data acounts for around 1-4%.
+When grouping by State, the duplicated data accounts for around 1% of the total casualty data (See tables below). When grouping by shooter, the duplicated data acounts for around 1-4%.
 
 
-"By State" Duplication:
+Incidents & Casualties "By State" Duplication:
 ```
     Incidents
         W/Dups:   492
@@ -112,7 +115,7 @@ When grouping by state, the duplicated data accounts for around 1% of the total 
         Extra:     34 [0.95%]
 ```
 
-"By Shooter Gender" Duplication:
+Incidents & Casualties "By Shooter Gender" Duplication:
 ```
     Incidents
         W/Dups:   489
@@ -135,7 +138,7 @@ When grouping by state, the duplicated data accounts for around 1% of the total 
         Extra:    135 [3.78%]
 ```
 
-"By Shooter Fate" Duplication:
+Incidents & Casualties "By Shooter Fate" Duplication:
 ```
     [Same as "By Shooter Gender", except less duplication in incidents.]
     
@@ -146,15 +149,15 @@ When grouping by state, the duplicated data accounts for around 1% of the total 
 ```
 
 ### Cause:
-There are multiple incidents which cross state lines. Due to the way the FBI categorizes these incidents, much of the data is grouped together and considered a single incident. This presents problems when attempting to query data such as number of incidents by state, since the same incident will be counted twice (once for each state), and the entire casualty totals for the whole incident will be included in the totals for both states.
+There are multiple incidents which cross State lines. Due to the way the FBI categorizes these incidents, much of the data is grouped together and considered a single incident. This presents problems when attempting to query data such as number of incidents by State, since the same incident will be counted twice (once for each State), and the entire casualty totals for the whole incident will be included in the totals for both States.
 
-Additionally, the FBI summary data which I used to verify my data, only counts the incident for a single state; as the report puts it:
+Additionally, the FBI summary data which I used to verify my data, only counts the incident for a single State; as the report puts it:
 
-> "When an incident occurred in two or more states, it was counted only once (in the state where the FBI identified that the public was most at risk)."
+> "When an incident occurred in two or more States, it was counted only once (in the State where the FBI identified that the public was most at risk)."
 
-Which sounds nice, but the report doesn't indicate anywhere, which state each of these events were counted in; making each multi-state incident arbitrarily assigned to one or the other, with no means of predicting which that is, thus making the summary data inherently inaccurate for state-related incident data.
+Which sounds nice, but the report doesn't indicate anywhere, which State each of these events were counted in; making each multi-State incident arbitrarily assigned to one or the other, with no means of predicting which one it is. Thus, making the summary data inherently inaccurate for State-related incident data. However, there are only 8 multi-state incidents in the entire dataset, and all of them are only double-State incidents, there are no triple-State incidents; making the effect of their data duplication minimal.
 
-Similarly, my database has no means of distinguishing the contributions of each shooter in incidents with multiple shooters. So, if your query groups the data by shooter, the full casualty totals for the entire incident will be duplicated for each shooter in that incident. So, if an incident with 3 shooters resulted in 5 casualties, then all 3 of those shooters will show 5 casualties each. However, multi-shooter incidents account for a very small percentage of all incidents, and triple shooter incidents are even fewer. Overall, 
+Similarly, my database has no means of distinguishing the contributions of each shooter in incidents with multiple shooters. So, if your query groups the data by shooter, then the full casualty totals for the entire incident will be duplicated for each shooter in that incident. So, if an incident with 3 shooters resulted in 5 casualties, then all 3 of those shooters will show 5 casualties each. However, multi-shooter incidents account for a very small percentage of all incidents. There are only 8 double-shooter incidents, and only 3 triple-shooter incidents.
 
 ## Terminating Event / Shooter's Fate / Surrendered (during the incident)
 The "Terminating Event" & "Shooter's Fate" columns, and to some extent the "Surrendered (during the incident)" column, should be taken with a grain of salt. It's a bit hard to explain, but figuring out a way to standardize the values & their definitions for these columns turned out to be surprisingly difficult to do, for a number of reasons. And thus, any data verification which depended upon these values (ex: number of shooters killed by civilians, number of times engaged by police, etc.), will likewise be unclear.
@@ -176,10 +179,12 @@ In the summary data, the FBI counts unknown shooters as male for some years, and
 There is also ambiguity about the number of shooters that are counted when the total is unknown. See the following:
 
 * Incident 117 - House Party in South Jamaica, NY
-    The event description indicates 1 known shooter and an unknown number of additional shooters. The description specifically uses the "shooter(s)" designation. Based upon cross referencing the summary data in the FBI's report with the known data from the other incidents, it appears that the FBI counts the unknown "shooter(s)" as 2 shooters in addition to the other known shooter; making a total of 3 shooters for that incident.
+
+    The event description indicates 1 known shooter and an unknown number of additional shooters. The description specifically uses the "shooter(s)" designation. Based upon cross-referencing the summary data in the FBI's report with the known data from the other incidents, it appears that the FBI counts the unknown "shooter(s)" as 2 shooters in addition to the other known shooter; making a total of 3 shooters for that incident.
 
 * Incident 261 - Highway 509 Near Seattle-Tacoma International Airport
-    The event description indicates an unknown number of shooters. The description specifically uses the "shooter(s)" designation. Based upon cross referencing the summary data in the FBI's report with the known data from the other incidents, it appears that the FBI counts this event as a single shooter.
+
+    The event description indicates an unknown number of shooters. The description specifically uses the "shooter(s)" designation. Based upon cross-referencing the summary data in the FBI's report with the known data from the other incidents, it appears that the FBI counts this event as a single shooter.
 
 ## Automated Tests Against Summary Data
 After finishing my manual data entry of all of the updated reports, I began my data integrity checks using the summary data provided within the FBI reports. I standardized this summary data into JSON files; one for each PDF datasource (See: "Summary-Check/\*.json"). I then wrote some code to read in these "expected" target values, and compare them to the equivalent data queried from the database (See: "Summary-Check/SummaryDataVerification.java"). While the majority was correct, the comparison results revealed some inconsistencies between my data and the FBI summary data, indicating possible errors in my data (See: "Summary-Check/Results___All.txt", or "Summary-Check/Results___FailuresOnly.txt").
@@ -190,7 +195,7 @@ Despite considerable investigation, I could not find where my data was wrong. So
 ### Methodology
 I copied the raw text of the event descriptions from the FBI reports, and pasted them into text files. I then wrote a simple program (See: "RawTextExtracts/ParseRawPoliceReports.java") to parse this text, and clean it up for insertion into the database. I then wrote code to iterate through each incident, and package up the event info into an API request to OpenAI's GPT4 (See: "AI-Check/AiValidator.java").
 
-The general format of the request was a large system prompt describing how I wanted the AI to handle ambiguity, and standardizing its output. This was followed by the shooting incident name & description, and finally a single data question (ex: which state did this occurr in?, etc.). This process was repeated multiple times for each incident; providing a fresh clean chat history for each data question, to prevent any data contamination between questions. The answers were then parsed and fed into the database.
+The general format of the request was a large system prompt describing how I wanted the AI to handle ambiguity, and standardizing its output. This was followed by the shooting incident name & description, and finally a single data question (ex: which State did this occurr in?, etc.). This process was repeated multiple times for each incident; providing a fresh clean chat history for each data question, to prevent any data contamination between questions. The answers were then parsed and fed into the database.
 
 Finally, I wrote some more code (Also in: "AI-Check/AiValidator.java") to query the database and iterate through each incident, pulling both the AI's answers and my own manual entry data, and checking for discrepancies. If the AI gave the same answer as me, then it was considered to be correct. If the AI gave a different answer, then it was flagged for manual review.
 
@@ -209,25 +214,28 @@ There are some which depend upon personal preference. For example, the only disc
 ## Known Errors (In the FBI Report's Summary Data)
 There are numerous errors in the 20-year review (2000-2019) report's summary data.
 
-The summary data in the 20-year review report lists the number of states as: 43 + District of Columbia, but my data lists that count at 44 + District of Columbia. This is because the only events which occurred in Delaware were multi-state incidents, and the FBI decided to count both of them for the other state. So, the FBI lists Delaware as having zero incidents, while I retain the count of those 2 multi-state incidents. Though, admittedly, this is not so much an "error" as a preference, but it does explain why my state count for 2000 - 2019 doesn't match theirs.
+The summary data in the 20-year review report lists the number of States as: 43 + District of Columbia, but my data lists that count at 44 + District of Columbia. This is because the only events which occurred in Delaware were multi-State incidents, and the FBI decided to count both of them in the other State. So, the FBI lists Delaware as having zero incidents, while I retain the count of those 2 multi-State incidents. Though, admittedly, this is not so much an "error" as a preference, but it does explain why my State count for 2000 - 2019 doesn't match theirs.
 
-The 20-year review report is wrong for 2019, assuming the FBI's 2019 report is correct. If you take the summary numbers from the 2019 report for casualty break down, and add the two new 2019 incidents, it produces numbers that don't match the 20-year review summary numbers for 2019. But, if you do the reverse, and look at the 2020 report's "previous year" data for 2019, the casualty numbers are different from the 20-year review report's numbers, and these new updated values match my data.
+The 20-year review report is wrong for 2019, assuming that the 2019 report is correct. If you take the summary numbers from the 2019 report for casualty break down, and add the two new 2019 incidents from the 20-year review report, it produces numbers that don't match the 20-year review summary numbers for 2019. But, if you do the reverse, and look at the 2020 report's "previous year" data for 2019, the casualty numbers are different from the 20-year review report's numbers, and these new updated values match my data.
 
 Also, in the 20-year review report, in the "20-Year Active Shooter Summary" on page 4, the chart in the bottom right corner ("Other Shooter Outcomes"), lists the number of "Shooters at large" as 5, but the last sentence of the text description below the info graphic, says there were only 4 ("4 at large."). The "correct" value appears to be 5, since on page 25 of the same PDF, the "Shooter Outcomes" summary charts, also list 5 as the number of "at large" shooters.
 
 Also, it claims 18 events for Ohio, but the name "ohio" only occurrs in 17 of the event descriptions, for years 2019 and before.
 
-Also, there are several states which under-count the number of incidents, but this is assumed to be a part of the FBI arbitrarily choosing where to count multi-state incidents. For example, 2 incidents took place in Delaware, but both were multi-state incidents, and both were counted in other states, so Delaware shows a count of zero in the FBI report.
+Also, there are several States which under-count the number of incidents, but this is assumed to be a part of the FBI arbitrarily choosing where to count multi-State incidents. For example, 2 incidents took place in Delaware, but both were multi-State incidents, and both were counted in other States, so Delaware shows a count of zero in the FBI report.
 
-However, not all such undercounting states can be accounted for in this way. For example, the 20-year review report lists Indiana as having 4 total incidents. However, there are 5 incidents from 2000 to 2019 which declare their state to be Indiana:
+However, not all such undercounting States can be accounted for in this way. For example, the 20-year review report lists Indiana as having 4 total incidents. However, there are 5 incidents from 2000 to 2019 which declare their State to be Indiana:
 * Incident #7   "Nu-Wood Decorative Millwork Plant"
 * Incident #9   "Bertrand Products, Inc."
 * Incident #162 "Martin's Supermarket"
 * Incident #260 "Noblesville West Middle School"
 * Incident #329 "North Side Neighborhood in Evansville, Indiana"
-And all of their provided descriptions exclusively mention Indiana; they do not even mention another state, so this discrepancy cannot be the result of counting one of these incidents for another state. There is a 6th incident which mentioned Indiana, but the event occurred in Ohio; the shooter was just caught in Indiana, so that wouldn't solve it either.
+
+And all of their provided descriptions exclusively mention Indiana; they do not even mention another State, so this discrepancy cannot be the result of counting one of these incidents for another State. There is also a 6th incident which mentioned Indiana, but the event occurred in Ohio; the shooter was just caught in Indiana, so that wouldn't solve it either.
+
 * Incident #22 "Watkins Motor Lines"
-To verify, run the following query:
+
+To verify this, run the following query:
 ```
 SELECT *
   FROM fbi_active_shooters.rawIncidentDescriptions
@@ -292,18 +300,23 @@ As always, I used the numbers in the FBI report.
 The 2022 report documents the shooter as "armed with a rifle", but several news stories on the subject claim he had multiple weapons, though they don't agree on what they were, but the most common claim was 1 AR-15 & 1 shotgun:
 
 > "The 20-year-old gunman legally purchased all of his weapons, which included two shotguns and a semi-automatic rifle."
+> 
 > https://www.opb.org/article/2023/08/28/bend-oregon-safeway-shooting-one-year-anniversary-guns/
 	
 > "Police officers found the gunman, whose name has not been released, dead 'in close proximity' to an AR-15-style weapon and a shotgun inside the Safeway supermarket,"
+> 
 > https://www.cbsnews.com/news/safeway-bend-oregon-shooting-three-dead-including-gunman/
 	
 > "At least three people, including the shooter, are dead in Bend after a man with a military-style rifle opened fire at the Forum Shopping Center off Highway 20. ... Police found a semi-automatic rifle and a shotgun near the shooter’s body."
+> 
 > https://www.opb.org/article/2022/08/28/bend-police-investigating-possible-active-shooter/
 	
 > "... said Bend Police spokeswoman Sheila Miller. The gunman is also dead, she said. Police did not say how he died. A shotgun was found near his body. ... She said the shooter may have had several weapons in addition to the rifle."
+> 
 > https://www.bendbulletin.com/localstate/gunman-sprays-aisles-of-bend-safeway-3-dead/article_27818d4c-2744-11ed-b73e-7373d977a1a2.html
 	
 > "At a press conference late Sunday, Bend Police Chief Mike Krantz said the suspect was carrying an AR-15-style rifle and a shotgun."
+> 
 > https://abcnews.go.com/US/dead-shooting-safeway-oregon-police/story?id=88382502
 
 As always, I used the numbers in the FBI report.
@@ -312,15 +325,19 @@ As always, I used the numbers in the FBI report.
 The 2022 report documents the total casualties as "One person was killed; two people were wounded." However, all of the news articles I can find on what appears to be the event, document upwards of 5 casualties. At least one of them was from the shooter driving his car into a motorcyclist, so perhaps that was excluded since it wasn't a gunshot wound? I'm not sure.
 
 > "Raymond continued shooting. Police say there were at least six victims, with at least two being shot, including a 14-year-old who was shot in the cheek, court documents said."
+> 
 > https://www.12news.com/article/news/crime/records-alleged-avondale-shooter-made-several-spontaneous-utterances-to-police-after-he-was-detained/75-e8c42adc-59db-4149-986a-e6819212a96f
 	
 > "The sixth victim, the motorcyclist, is in critical condition."
+> 
 > https://www.12news.com/article/news/crime/one-detained-following-shooting-near-avondale-boulevard-mcdowell-road-police-say/75-c5bb337d-e51e-447c-ba00-8047a7ecb051
 	
 > "One person has died, and 5 are injured after police say a man allegedly shot at cars that were driving on the I-10 freeway in Avondale Saturday afternoon."
+> 
 > https://www.azfamily.com/2022/11/20/1-dead-5-injured-after-suspect-allegedly-shoots-cars-i-10-avondale/
 	
 > "An eighth victim reported being shot at, but was not hurt."
+> 
 > https://www.fox10phoenix.com/news/large-police-investigation-underway-in-avondale
 
 As always, I used the numbers in the FBI report.
