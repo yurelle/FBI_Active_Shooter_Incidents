@@ -1,5 +1,5 @@
-# FBI_Active_Shooter_Incidents_2000-2022
-A manual ETL of the primary data from the FBI's reports on active shooter incidents from 2000 to 2022, into a standardized structured dataset.
+# FBI_Active_Shooter_Incidents_2000-2023
+A manual ETL of the primary data from the FBI's reports on active shooter incidents from 2000 to 2023, into a standardized structured dataset.
 See:
 
 * https://www.fbi.gov/file-repository/active-shooter-incidents-2000-2018.pdf/view
@@ -9,11 +9,12 @@ See:
 * https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2020-070121.pdf/view
 * https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2021-052422.pdf/view
 * https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2022-042623.pdf/view
+* https://www.fbi.gov/file-repository/2023-active-shooter-report-062124.pdf/view
 
 ## Description
 This is my own manual conversion of the raw FBI Active Shooting Incident reports. I made an Excel spreadsheet for each of the FBI's PDF reports, and a MySQL Relational Database containing everything unified in one place. Both contain the same dataset; allowing different methods of analytical inspection. The Excel spreadsheets also contain links to news stories for each incident for which additional research was needed to resolve ambiguity in the FBI data, or to find the shooter's name.
 
-I've done my best to verify the data, but there might be some errors in my ETL processing. The raw incident reports total 61 pages of unstructured text that I had to read through & manually convert into precise mathematical data. I also had to do external research to disambiguate unspecified info, and some of the edge cases are a bit vague, and are difficult to put into fixed categories, while others come down to one's personal opinion, and the FBI did not document their's so it becomes rather difficult to make sure that I am coming to the same conclusion on ambiguity that they did.
+I've done my best to verify the data, but there might be some errors in my ETL processing. The raw incident reports total 67 pages of unstructured text that I had to read through & manually convert into precise mathematical data. I also had to do external research to disambiguate unspecified info, and some of the edge cases are a bit vague, and are difficult to put into fixed categories, while others come down to one's personal opinion, and the FBI did not document their's so it becomes rather difficult to make sure that I am coming to the same conclusion on ambiguity that they did.
 
 I used several different methods to verify that my data accurately reproduces the data in the reports. However, there are some discrepancies between my data, and the summary data in some of the reports, and I also discovered several errors & some more possible errors in the FBI's data.
 
@@ -208,7 +209,7 @@ I manually re-checked all of the discrepancies between GPT4o's answers, and my m
 
 The logs in the "AI-Check" folder contain all of the descrepancies remaining after these few minor fixes. After my manual re-check of the GPT4o descrepancies, I have concluded that all of them are false-alarms, and my data correctly matches the FBI incident reports. But, I have left them here, so that you can double-check them if you wish.
 
-There are some which depend upon personal preference. For example, the only discrepancy in States (incident 359; See: https://www.justice.gov/usao-ednc/pr/man-sentenced-20-years-federal-prison-shooting-rampage-i-95-north-carolina ). In this incident, the shooter began shooting at other cars while driving along Interstate 95 in North Carolina. When police responded, they began a high-speed chase for 60 miles, and ended up crossing the border into Virginia. However, the actual shooting only took place in North Carolina; they merely chased him into Virginia. So, should the "incident" include Virginia? To some degree, it's a matter of opinion. I said "no", because the shooting was only in North Carolina, but you could argue "yes", because it was all a single continuous incident that ended in North Carolina.
+There are some which depend upon personal preference. For example, the only discrepancy in States (incident 359; See: https://www.justice.gov/usao-ednc/pr/man-sentenced-20-years-federal-prison-shooting-rampage-i-95-north-carolina ). In this incident, the shooter began shooting at other cars while driving along Interstate 95 in North Carolina. When police responded, they began a high-speed chase for 60 miles, and ended up crossing the border into Virginia. However, the actual shooting only took place in North Carolina; they merely chased him into Virginia. So, should the "incident" include Virginia? To some degree, it's a matter of opinion. I said "no", because the shooting was only in North Carolina, but you could argue "yes", because it was all a single continuous incident that ended in North Carolina.
 
 
 ## Known Errors (In the FBI Report's Summary Data)
