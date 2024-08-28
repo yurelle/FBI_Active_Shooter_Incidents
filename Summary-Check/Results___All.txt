@@ -474,6 +474,35 @@ Health Care: ✓
 House of Worship: ✓			
 Other: ✓			
 
+---------------
+Verifying Month
+---------------
+
+January: ✓			
+February: ✓			
+March: ✓			
+April: ✓			
+May: ✓			
+June: ✓			
+July: ✓			
+August: ✓			
+September: ✓			
+October: ✓			
+November: ✓			
+December: ✓			
+
+---------------------
+Verifying Day Of Week
+---------------------
+
+Sunday: ✓			
+Monday: ✓			
+Tuesday: ✓			
+Wednesday: ✓			
+Thursday: ✓			
+Friday: ✓			
+Saturday: ✓			
+
 ==================================
 ==================================
 ==================================
@@ -595,6 +624,35 @@ House of Worship: ✓
 Open Space: ✓			
 Residence: ✓			
 Other: ✓			
+
+---------------
+Verifying Month
+---------------
+
+January: ✓			
+February: ✓			
+March: ✓			
+April: ✓			
+May: ✓			
+June: ✓			
+July: ✓			
+August: ✓			
+September: ✓			
+October: ✓			
+November: ✓			
+December: ✓			
+
+---------------------
+Verifying Day Of Week
+---------------------
+
+Sunday: ✓			
+Monday: ✓			
+Tuesday: ✓			
+Wednesday: ✓			
+Thursday: ✓			
+Friday: ✓			
+Saturday: ✓			
 
 ==================================
 ==================================
@@ -720,6 +778,189 @@ Open Space: ✓
 Residence: ✓			
 Other: ✓			
 
+---------------
+Verifying Month
+---------------
+
+January: ✓			
+February: ✓			
+March: ✓			
+April: ✓			
+May: ✓			
+June: ✓			
+July: ✓			
+August: ✓			
+September: ✓			
+October: ✓			
+November: ✓			
+December: ✓			
+
+---------------------
+Verifying Day Of Week
+---------------------
+
+Sunday: ✓			
+Monday: ✓			
+Tuesday: ✓			
+Wednesday: ✓			
+Thursday: ✓			
+Friday: ✓			
+Saturday: ✓			
+
+==================================
+==================================
+==================================
+==========              ==========
+==========     2023     ==========
+==========              ==========
+==================================
+==================================
+==================================
+
+
+-----------------------
+Verifying Overall Stats
+-----------------------
+
+Incidents: ✓			
+States: ✓			
+Casualties: ✓			
+Deaths: ✓			
+Wounded: ✓			
+Mass Killings: ✓			
+Engaged Shooters: ✓			
+All Shooters: ✓			
+Male Shooters: ✓			
+Female Shooters: ✓			
+Non-Binary Shooters: ✓			
+FTM Transgender Shooters: ✓			
+Unknown Shooters: ✓			
+Suicides: ✓			
+Killed By Police: ✓			
+Killed By Civilians: ✓			
+Arrested: ✓			
+At Large: ✓			
+
+----------------------------
+Verifying Incidents By State
+----------------------------
+
+California: ✓			
+Texas: ✓			
+Washington: ✓			
+Georgia: ✓			
+Pennsylvania: ✓			
+Arizona: ✓			
+Florida: ✓			
+Nevada: ✓			
+Ohio: ✓			
+Tennessee: ✓			
+Illinois: ✓			
+Indiana: ✓			
+Kentucky: ✓			
+Louisiana: ✓			
+Maine: ✓			
+Michigan: ✓			
+Minnesota: ✓			
+Missouri: ✓			
+New Hampshire: ✓			
+New Mexico: ✓			
+New York: ✓			
+North Carolina: ✓			
+North Dakota: ✓			
+Oklahoma: ✓			
+Utah: ✓			
+Vermont: ✓			
+Alabama: ✓			
+Alaska: ✓			
+Arkansas: ✓			
+Colorado: ✓			
+Connecticut: ✓			
+Delaware: ✓			
+District of Columbia: ✓			
+Hawaii: ✓			
+Idaho: ✓			
+Iowa: ✓			
+Kansas: ✓			
+Maryland: ✓			
+Massachusetts: ✓			
+Mississippi: ✓			
+Montana: ✓			
+Nebraska: ✓			
+New Jersey: ✓			
+Oregon: ✓			
+Rhode Island: ✓			
+South Carolina: ✓			
+South Dakota: ✓			
+Virginia: ✓			
+West Virginia: ✓			
+Wisconsin: ✓			
+Wyoming: ✓			
+
+------------------------------
+Verifying Shooter By Age Group
+------------------------------
+
+<=18: ✓			
+19-24: ✓			
+25-34: ✓			
+35-44: ✓			
+45-54: ✓			
+55-64: ✓			
+65+: ✓			
+
+
+------------------------------
+Verifying Incident Resolutions
+------------------------------
+
+Suicide: ✓			
+Killed: ✓			
+Apprehended: ✓			
+At Large: ✓			
+
+-----------------------
+Verifying Location Type
+-----------------------
+
+Commerce: ✓			
+Education: ✓			
+Health Care: ✓			
+Open Space: ✓			
+Residence: ✓			
+Government: ✓			
+House of Worship: ✓			
+Other: ✓			
+
+---------------
+Verifying Month
+---------------
+
+January: ✓			
+February: ✓			
+March: ✓			
+April: ✓			
+May: ✓			
+June: ✓			
+July: ✓			
+August: ✓			
+September: ✓			
+October: ✓			
+November: ✓			
+December: ✓			
+
+---------------------
+Verifying Day Of Week
+---------------------
+
+Sunday: ✓			
+Monday: ✓			
+Tuesday: ✓			
+Wednesday: ✓			
+Thursday: ✓			
+Friday: ✓			
+Saturday: ✓			
+
 ====================================================
 ====================================================
 ====================================================
@@ -740,8 +981,8 @@ Other: ✓
 Verifying All Location Types (For All Years) Against Raw Event Descriptions
 ---------------------------------------------------------------------------
 
-483 RawIncidentDescription records whose location type matches its RawIncidentTitle.
-Count ("483"): ✓			
+531 RawIncidentDescription records whose location type matches its RawIncidentTitle.
+Count ("531"): ✓			
 
 Only 1 RawIncidentDescription record whose location type does not match its RawIncidentTitle.
 Count ("1"): ✓			
@@ -753,4 +994,3 @@ Location Type ("Residence"): ✓
 
 Zero Incident records whose LocationType does not match the RawIncidentDescription's LocationType
 Count ("0"): ✓			
-

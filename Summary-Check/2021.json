@@ -75,5 +75,30 @@
         "House of Worship": 1,
         "Health Care": 1,
         "Other": 0
+    },
+    
+    "INCIDENTS_BY_MONTH": {
+        "January":   3,
+        "February":  2,
+        "March":     5,
+        "April":    10,
+        "May":       5,
+        "June":     12,
+        "July":      4,
+        "August":    7,
+        "September": 6,
+        "October":   2,
+        "November":  4,
+        "December":  1
+    },
+    
+    "INCIDENTS_BY_DAY_OF_WEEK": {
+        "Sunday":     6,
+        "Monday":     7,
+        "Tuesday":   12,
+        "Wednesday":  7,
+        "Thursday":  11,
+        "Friday":     4,
+        "Saturday":  14
     }
 }

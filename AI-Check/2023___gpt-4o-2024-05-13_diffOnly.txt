@@ -1,0 +1,17 @@
+------------------------------
+Verifying Direct Single Values
+------------------------------
+
+
+----------------
+Verifying States
+----------------
+
+
+------------------
+Verifying Shooters
+------------------
+
+Comparing [incident: 495] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ! [FTM Transgender vs FEMALE]	Age: ✓			
+Comparing [incident: 512] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ! [YES vs NO]		Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ✓			
+Comparing [incident: 519] ...	Multiple Shooters: ✓					Num Shooters: ✓					Arrested: ✓					Num Arrested: ✓				Suicide: ✓				Num Suicide: ✓				At Large: ✓					Num At Large: ✓				Gender: ✓					Age: ! [17 & 17 vs 17]	

@@ -18,7 +18,8 @@ VALUES
     ('2000-2019',    'active-shooter-incidents-20-year-review-2000-2019-060121.pdf'),
     ('2020',         'active-shooter-incidents-in-the-us-2020-070121.pdf'),
     ('2021',         'active-shooter-incidents-in-the-united-states-2021-052422.pdf'),
-    ('2022',         'active-shooter-incidents-in-the-us-2022-042623.pdf');
+    ('2022',         'active-shooter-incidents-in-the-us-2022-042623.pdf'),
+    ('2023',         '2023-active-shooter-report-062124.pdf');
 
 
 -- ------------------------------------------------

@@ -18,8 +18,8 @@ import java.util.*;
  */
 public class SummaryDataVerification {
     Connection conn;
-    boolean logSuccesses = true;
-    public static final String SUMMARY_DATA_PARENT_DIR = "C:/FBI_Active_Shooter_Incidents/Summary-Check/";
+    boolean logSuccesses = false;
+    public static final String SUMMARY_DATA_PARENT_DIR = "D:/FBI_Active_Shooter_Incidents/Summary-Check/";
 
     public SummaryDataVerification() throws ClassNotFoundException, InstantiationException, IllegalAccessException {
         Class.forName("com.mysql.cj.jdbc.Driver").newInstance();
@@ -451,6 +451,29 @@ public class SummaryDataVerification {
             );
         }
 
+        //FTM Trans Shooters
+        if (summaryStats.containsKey("NUM_FTM_TRANS_SHOOTERS")) {
+            verifyAndLog(
+                    "FTM Transgender Shooters",
+                    ((Integer) summaryStats.get("NUM_FTM_TRANS_SHOOTERS")).toString(),
+                    queryForValue(
+                            """
+                                SELECT COUNT(*) AS cnt
+                                  FROM fbi_active_shooters.incident inc
+                                  JOIN fbi_active_shooters.shooter sh
+                                    ON sh.incidentId = inc.id
+                               """ +
+                               "  WHERE inc.datasourceID IN (" + datasourceIdList + ")" +
+                               """
+                                   AND ? <= `year` AND `year` <= ?
+                                   AND sh.gender = 'FTM Transgender';
+                               """,
+                            years.lowerBound,
+                            years.upperBound
+                    )
+            );
+        }
+
         //Unknown Shooters
         if (summaryStats.containsKey("NUM_UNKNOWN_SHOOTERS")) {
             verifyAndLog(
@@ -512,8 +535,13 @@ public class SummaryDataVerification {
                                "  WHERE inc.datasourceID IN (" + datasourceIdList + ")" +
                                """
                                    AND ? <= `year` AND `year` <= ?
-                                   AND sh.terminatingEvent LIKE '%killed%'
-                                   AND sh.terminatingEvent LIKE '%police%';
+                                   AND (
+                                       (
+                                               sh.terminatingEvent LIKE '%killed%'
+                                           AND sh.terminatingEvent LIKE '%police%'
+                                       )
+                                       OR  sh.fate LIKE '%killed later%'
+                                   );
                                """,
                             years.lowerBound,
                             years.upperBound
@@ -566,6 +594,7 @@ public class SummaryDataVerification {
                                    AND (
                                           sh.fate LIKE '%arrested%'
                                        OR sh.fate LIKE '%turned self in%'
+                                       OR sh.fate LIKE '%surrendered later%'
                                    );
                                """,
                             years.lowerBound,
@@ -784,6 +813,7 @@ public class SummaryDataVerification {
                                    AND (
                                           sh.fate LIKE '%arrested%'
                                        OR sh.fate LIKE '%turned self in%'
+                                       OR sh.fate LIKE '%surrendered later%'
                                    );
                                """,
                             datasourceID
@@ -859,6 +889,152 @@ public class SummaryDataVerification {
 
             //Data
             final String locationType = rs.getString("locationType");
+            final String totalIncidents = rs.getString("totalIncidents");
+
+            //Incidents
+            allSuccess &= verify(
+                    log,
+                    locationType,
+                    ((Integer) incidentsByLocationType.get(locationType)).toString(),
+                    totalIncidents
+            );
+
+            //Log
+            final boolean shouldLog = !allSuccess || (allSuccess && logSuccesses);
+            if (shouldLog) {
+                System.out.println(log);
+            }
+        }
+
+        //Empty Check
+        if (!anyFound) {
+            throw new SQLException("Record Not Found!");
+        }
+    }
+
+    public void verify_Month(final HashMap<String,Object> summaryStats, final String datasourceID) throws SQLException {
+        System.out.println("\n" +
+                "---------------\n" +
+                "Verifying Month\n" +
+                "---------------\n"
+        );
+
+        //Prepare Query
+        PreparedStatement stmt;
+        stmt = conn.prepareStatement(
+                """
+                    WITH months AS (
+                        SELECT distinct MONTHNAME(inc.date) as `month`,
+                                MONTH(inc.date) as monthIndex
+                          FROM fbi_active_shooters.incident inc
+                    ),
+                    counts AS (
+                        SELECT MONTHNAME(inc.date) as `month`,
+                               COUNT(*) AS cnt
+                          FROM fbi_active_shooters.incident inc
+                         WHERE inc.datasourceID = ?
+                         GROUP BY `month`
+                    )
+                    SELECT months.`month`,
+                           IFNULL(counts.cnt, 0) AS totalIncidents
+                      FROM months
+                      LEFT JOIN counts
+                        ON months.`month` = counts.`month`
+                     ORDER BY monthIndex;
+                    """
+        );
+        stmt.setString(1, datasourceID);
+
+        //Extract Target Summary Stat Root
+        final Map<String, Object> incidentsByLocationType = (Map<String, Object>) summaryStats.get("INCIDENTS_BY_MONTH");
+
+        //Execute Query
+        ResultSet rs = stmt.executeQuery();
+        boolean anyFound = false;
+        while (rs.next()) {
+            anyFound = true;
+
+            //Init Output Buffer
+            StringBuilder log = new StringBuilder();
+
+            //Verification Status
+            boolean allSuccess = true;
+
+            //Data
+            final String locationType = rs.getString("month");
+            final String totalIncidents = rs.getString("totalIncidents");
+
+            //Incidents
+            allSuccess &= verify(
+                    log,
+                    locationType,
+                    ((Integer) incidentsByLocationType.get(locationType)).toString(),
+                    totalIncidents
+            );
+
+            //Log
+            final boolean shouldLog = !allSuccess || (allSuccess && logSuccesses);
+            if (shouldLog) {
+                System.out.println(log);
+            }
+        }
+
+        //Empty Check
+        if (!anyFound) {
+            throw new SQLException("Record Not Found!");
+        }
+    }
+
+    public void verify_DayOfWeek(final HashMap<String,Object> summaryStats, final String datasourceID) throws SQLException {
+        System.out.println("\n" +
+                "---------------------\n" +
+                "Verifying Day Of Week\n" +
+                "---------------------\n"
+        );
+
+        //Prepare Query
+        PreparedStatement stmt;
+        stmt = conn.prepareStatement(
+                """
+                    WITH days AS (
+                        SELECT distinct DAYNAME(inc.date) as `day`,
+                                DAYOFWEEK(inc.date) as dayIndex
+                          FROM fbi_active_shooters.incident inc
+                    ),
+                    counts AS (
+                        SELECT DAYNAME(inc.date) as `day`,
+                               COUNT(*) AS cnt
+                          FROM fbi_active_shooters.incident inc
+                         WHERE inc.datasourceID = ?
+                         GROUP BY `day`
+                    )
+                    SELECT days.`day`,
+                           IFNULL(counts.cnt, 0) AS totalIncidents
+                      FROM days
+                      LEFT JOIN counts
+                        ON days.`day` = counts.`day`
+                     ORDER BY dayIndex;
+                    """
+        );
+        stmt.setString(1, datasourceID);
+
+        //Extract Target Summary Stat Root
+        final Map<String, Object> incidentsByLocationType = (Map<String, Object>) summaryStats.get("INCIDENTS_BY_DAY_OF_WEEK");
+
+        //Execute Query
+        ResultSet rs = stmt.executeQuery();
+        boolean anyFound = false;
+        while (rs.next()) {
+            anyFound = true;
+
+            //Init Output Buffer
+            StringBuilder log = new StringBuilder();
+
+            //Verification Status
+            boolean allSuccess = true;
+
+            //Data
+            final String locationType = rs.getString("day");
             final String totalIncidents = rs.getString("totalIncidents");
 
             //Incidents
@@ -1589,11 +1765,11 @@ public class SummaryDataVerification {
         boolean allSuccess = true;
 
         //RawDescriptions - Match Count
-        log.append("483 RawIncidentDescription records whose location type matches its RawIncidentTitle.\n");
+        log.append("531 RawIncidentDescription records whose location type matches its RawIncidentTitle.\n");
         allSuccess &= verify(
                 log,
-                "Count (\"483\")",
-                "483",
+                "Count (\"531\")",
+                "531",
                 queryForValue(
                         """
                             SELECT COUNT(*)
@@ -1820,6 +1996,8 @@ public class SummaryDataVerification {
             verify_shooterByAgeGroup(summaryStats, "2020", ageBrackets);
             verify_incidentResolutions(summaryStats, "2020");
             verify_locationType(summaryStats, "2020");
+            verify_Month(summaryStats, "2020");
+            verify_DayOfWeek(summaryStats, "2020");
         }
 
         {//2021
@@ -1840,9 +2018,11 @@ public class SummaryDataVerification {
             verify_shooterByAgeGroup(summaryStats, "2021");
             verify_incidentResolutions(summaryStats, "2021");
             verify_locationType(summaryStats, "2021");
+            verify_Month(summaryStats, "2021");
+            verify_DayOfWeek(summaryStats, "2021");
         }
 
-        {//2021
+        {//2022
             System.out.println("\n" +
                     "==================================\n" +
                     "==================================\n" +
@@ -1860,6 +2040,30 @@ public class SummaryDataVerification {
             verify_shooterByAgeGroup(summaryStats, "2022");
             verify_incidentResolutions(summaryStats, "2022");
             verify_locationType(summaryStats, "2022");
+            verify_Month(summaryStats, "2022");
+            verify_DayOfWeek(summaryStats, "2022");
+        }/**/
+
+        {//2023
+            System.out.println("\n" +
+                    "==================================\n" +
+                    "==================================\n" +
+                    "==================================\n" +
+                    "==========              ==========\n" +
+                    "==========     2023     ==========\n" +
+                    "==========              ==========\n" +
+                    "==================================\n" +
+                    "==================================\n" +
+                    "==================================\n"
+            );
+            HashMap<String, Object> summaryStats = parseJSON(Files.readString(Paths.get(SUMMARY_DATA_PARENT_DIR + "2023.json")));
+            verify_overallStatistics(summaryStats, "2023", new Range(2023));
+            verify_incidentsByState(summaryStats, "2023");
+            verify_shooterByAgeGroup(summaryStats, "2023");
+            verify_incidentResolutions(summaryStats, "2023");
+            verify_locationType(summaryStats, "2023");
+            verify_Month(summaryStats, "2023");
+            verify_DayOfWeek(summaryStats, "2023");
         }
 
         {//Location Type (All Years)

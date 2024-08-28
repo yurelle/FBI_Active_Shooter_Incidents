@@ -1,0 +1,103 @@
+{
+	"TOTAL_INCIDENTS":   48,
+	"TOTAL_STATES":      26,
+	"TOTAL_CASUALTIES":  244,
+	"TOTAL_DEATHS":      105,
+	"TOTAL_WOUNDED":     139,
+	"TOTAL_MASS-KILLINGS_(3+_DEATHS)": 15,
+	"NUM_TIMES_LAW_ENFORCEMENT_ENGAGED_THE_SHOOTER": 12,
+	"NUM_SHOOTERS":           49,
+	"NUM_MALE_SHOOTERS":      48,
+	"NUM_FEMALE_SHOOTERS":    0,
+	"NUM_NONBINARY_SHOOTERS": 0,
+	"NUM_FTM_TRANS_SHOOTERS": 1,
+	"NUM_UNKNOWN_SHOOTERS":   0,
+	"NUM_SUICIDES":           7,
+	"NUM_KILLED_BY_POLICE":   12,
+	"NUM_KILLED_BY_CIVILIAN": 0,
+	"NUM_ARRESTED":           30,
+	"NUM_AT_LARGE":           0,
+    
+    "INCIDENTS_BY_STATE": {
+        "California": 8,
+        "Texas": 4,
+        "Washington": 4,
+        "Georgia": 3,
+        "Pennsylvania": 3,
+        "Arizona": 2,
+        "Florida": 2,
+        "Nevada": 2,
+        "Ohio": 2,
+        "Tennessee": 2,
+        "Illinois": 1,
+        "Indiana": 1,
+        "Kentucky": 1,
+        "Louisiana": 1,
+        "Maine": 1,
+        "Michigan": 1,
+        "Minnesota": 1,
+        "Missouri": 1,
+        "New Hampshire": 1,
+        "New Mexico": 1,
+        "New York": 1,
+        "North Carolina": 1,
+        "North Dakota": 1,
+        "Oklahoma": 1,
+        "Utah": 1,
+        "Vermont": 1
+    },
+    
+    "SHOOTER_BY_AGE_GROUP": {
+        "<=18":    3,
+        "19-24":  11,
+        "25-34":  17,
+        "35-44":   9,
+        "45-54":   4,
+        "55-64":   2,
+        "65+":     3,
+        "Unknown": 0
+    },
+    
+    "INCIDENT_RESOLUTIONS": {
+        "Apprehended": 30,
+        "At Large":     0,
+        "Killed":      12,
+        "Suicide":      7
+    },
+    
+    "INCIDENTS_BY_LOCATION_TYPE": {
+        "Open Space":       28,
+        "Commerce":         14,
+        "Education":         3,
+        "Health Care":       2,
+        "Residence":         1,
+        "Government":        0,
+        "House of Worship":  0,
+        "Other":             0
+    },
+    
+    "INCIDENTS_BY_MONTH": {
+        "January":   6,
+        "February":  1,
+        "March":     5,
+        "April":     7,
+        "May":       5,
+        "June":      4,
+        "July":      5,
+        "August":    5,
+        "September": 2,
+        "October":   3,
+        "November":  3,
+        "December":  2
+    },
+    
+    "INCIDENTS_BY_DAY_OF_WEEK": {
+        "Sunday":     4,
+        "Monday":    11,
+        "Tuesday":    6,
+        "Wednesday":  7,
+        "Thursday":   5,
+        "Friday":     6,
+        "Saturday":   9
+    }
+}

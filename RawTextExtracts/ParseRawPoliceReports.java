@@ -119,7 +119,7 @@ public class ParseRawPoliceReports {
 
                 //Assume clean structure created by first pass
                 file_writer.println("-- \n-- " + fnc.name + ".pdf\n-- \n");
-                file_writer.println("INSERT INTO rawIncidentDescriptions (DataSourceFile, RawIncidentTitle, IncidentName, LocationType, IncidentDesc) VALUES");
+                file_writer.println("INSERT INTO rawIncidentDescriptions (DataSourceId, RawIncidentTitle, IncidentName, LocationType, IncidentDesc) VALUES");
                 file_writer.flush();
                 boolean isFirst = true;
                 while (it.hasNext()) {
@@ -256,7 +256,7 @@ public class ParseRawPoliceReports {
         JOptionPane.showMessageDialog(null, "Choose the directory containing the TXT files.");
 
         //Open Browse Dialog
-        JFileChooser browse = new JFileChooser(new File("C:/"));
+        JFileChooser browse = new JFileChooser(new File("A:/"));
         browse.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
         final int retVal = browse.showOpenDialog(null);
 

@@ -204,7 +204,7 @@ VALUES
 ('2000-2018', 'Multiple Locations in Kalamazoo, Michigan', '20-Feb-16', '5:40 PM', 'Michigan', 'Open Space', 'Jason Brian Dalton', 'MALE', '45', '0', '0', '1', '6', '2', '8', 'Fled the scene', 'Escaped (Arrested Later)', 'NO'),
 ('2000-2018', 'Excel Industries and Newton and Hesston, Kansas', '25-Feb-16', '4:57 PM', 'Kansas', 'Commerce', 'Cedric Larry Ford', 'MALE', '38', '1', '0', '1', '3', '14', '17', 'Shot by police (Killed)', 'Killed', 'NO'),
 ('2000-2018', 'Madison Junior/Senior High School', '29-Feb-16', '11:30 AM', 'Ohio', 'Education', 'James Austin Hancock', 'MALE', '14', '0', '0', '1', '0', '4', '4', 'Surrendered to Police', 'Arrested', 'YES'),
-('2000-2018', 'Prince George''s County Police Department District 3 Station', '13-Mar-16', '4:30 PM', 'Maryland', 'Government', 'Michael Ford', 'MALE', '22', '0', '0', '1', '1', '0', '1', 'Shot by the police (Survived)', 'Arrested', 'NO'),
+('2000-2018', 'Prince George''s County Police Department District 3 Station', '13-Mar-16', '4:30 PM', 'Maryland', 'Government', 'Michael Ford', 'MALE', '22', '0', '0', '1', '1', '0', '1', 'Shot by police (Survived)', 'Arrested', 'NO'),
 ('2000-2018', 'Antigo High School', '23-Apr-16', '11:02 PM', 'Wisconsin', 'Education', 'Jakob Edward Wagner', 'MALE', '18', '1', '0', '0', '0', '2', '2', 'Shot by police (Killed)', 'Killed', 'NO'),
 ('2000-2018', 'Knight Transportation Building', '4-May-16', '8:45 AM', 'Texas', 'Commerce', 'Marion Guy Williams', 'MALE', '65', '0', '1', '1', '1', '2', '3', 'Suicide when police arrived', 'Suicide', 'NO'),
 ('2000-2018', 'Arizona State Route 87', '24-May-16', '8:30 PM', 'Arizona', 'Open Space', 'James David Walker', 'MALE', '36', '1', '0', '0', '0', '2', '2', 'Fled the scene', 'Escaped (Arrested Later)', 'NO'),

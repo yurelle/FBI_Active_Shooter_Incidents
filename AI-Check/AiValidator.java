@@ -7,6 +7,9 @@ import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.sql.*;
 import java.util.*;
 import java.util.function.Function;
@@ -19,7 +22,7 @@ import java.util.function.Function;
  */
 public class AiValidator {
     Connection conn;
-    boolean logSuccesses = false;
+    boolean logSuccesses = true;
 
     public AiValidator() throws ClassNotFoundException, InstantiationException, IllegalAccessException {
         Class.forName("com.mysql.cj.jdbc.Driver").newInstance();
@@ -553,6 +556,7 @@ public class AiValidator {
                     ON raw_desc.incidentId = inc.id
                  -- WHERE 0 < inc.id AND inc.id <= 2 -- 500
                  -- WHERE inc.id = 5
+                    WHERE inc.dataSourceId = '2023'
                  ORDER BY inc.id;
                 """
         );
@@ -749,8 +753,23 @@ public class AiValidator {
         if (colon > 0) {
             hour = Integer.parseInt(timeStr, 0, colon, 10);
             minute = Integer.parseInt(timeStr, colon + 1, colon + 3, 10);
-            String amPm = timeStr.substring(colon + 4, len);
-            isPm = amPm.trim().equalsIgnoreCase("p.m.");
+            if (timeStr.toLowerCase().contains("m")) {//12-hour time
+                String amPm = timeStr.substring(colon + 4, len);
+                isPm = amPm.trim().equalsIgnoreCase("p.m.");
+            } else if (hour <= 24) {//24-hour time
+                if (hour >= 12) {
+                    isPm = true;
+                    //exactly 12 is both PM and not subtracted
+                    //because our time system is retarded.
+                    if (hour > 12) {
+                        hour -= 12;
+                    }
+                } else {
+                    isPm = false;
+                }
+            } else {//Unknown format
+                throw new IllegalArgumentException("Invalid time format: " + timeStr);
+            }
         } else {
             throw new java.lang.IllegalArgumentException();
         }
@@ -941,63 +960,78 @@ public class AiValidator {
                     "\t\t"
             );
 
-            //Arrested
-            allSuccess &= verify(
-                    log,
-                    "Arrested",
-                    countOccurrancesInList(incShooters, x -> x.fate, "arrested") > 0 ? "YES" : "NO",
-                    aiResult.arrested,
-                    "\t\t",
-                    "\t"
-            );
+            {//Arrested
+                final long numArrested =
+                        countOccurrancesInList(incShooters, x -> x.fate, "arrested") +
+                        countOccurrancesInList(incShooters, x -> x.fate, "surrendered") +
+                        countOccurrancesInList(incShooters, x -> x.fate, "turned self in");
 
-            //Num Arrested
-            allSuccess &= verify(
-                    log,
-                    "Num Arrested",
-                    countOccurrancesInList(incShooters, x -> x.fate, "arrested") + "",
-                    aiResult.numArrested,
-                    "\t"
-            );
+                //Was Arrested
+                allSuccess &= verify(
+                        log,
+                        "Arrested",
+                        numArrested > 0 ? "YES" : "NO",
+                        aiResult.arrested,
+                        "\t\t",
+                        "\t"
+                );
 
-            //Suicide
-            allSuccess &= verify(
-                    log,
-                    "Suicide",
-                    countOccurrancesInList(incShooters, x -> x.fate, "suicide") > 0 ? "YES" : "NO",
-                    aiResult.suicide,
-                    "\t"
-            );
+                //Num Arrested
+                allSuccess &= verify(
+                        log,
+                        "Num Arrested",
+                        numArrested + "",
+                        aiResult.numArrested,
+                        "\t"
+                );
+            }
 
-            //Num Suicide
-            allSuccess &= verify(
-                    log,
-                    "Num Suicide",
-                    countOccurrancesInList(incShooters, x -> x.fate, "suicide") + "",
-                    aiResult.numSuicide,
-                    "\t",
-                    "\t"
-            );
+            {//Suicide
+                final long numSuicide = countOccurrancesInList(incShooters, x -> x.fate, "suicide");
 
-            //At Large
-            allSuccess &= verify(
-                    log,
-                    "At Large",
-                    countOccurrancesInList(incShooters, x -> x.fate, "never caught") > 0 ? "YES" : "NO",
-                    aiResult.atLarge,
-                    "\t\t",
-                    "\t"
-            );
+                //Did Suicide
+                allSuccess &= verify(
+                        log,
+                        "Suicide",
+                        numSuicide > 0 ? "YES" : "NO",
+                        aiResult.suicide,
+                        "\t"
+                );
 
-            //Num At Large
-            allSuccess &= verify(
-                    log,
-                    "Num At Large",
-                    countOccurrancesInList(incShooters, x -> x.fate, "never caught") + "",
-                    aiResult.numAtLarge,
-                    "\t",
-                    "\t"
-            );/**/
+                //Num Suicide
+                allSuccess &= verify(
+                        log,
+                        "Num Suicide",
+                        numSuicide + "",
+                        aiResult.numSuicide,
+                        "\t",
+                        "\t"
+                );
+            }
+
+            {//At Large
+                final long numAtLarge = countOccurrancesInList(incShooters, x -> x.fate, "never caught");
+
+                //Is At Large
+                allSuccess &= verify(
+                        log,
+                        "At Large",
+                        numAtLarge > 0 ? "YES" : "NO",
+                        aiResult.atLarge,
+                        "\t\t",
+                        "\t"
+                );
+
+                //Num At Large
+                allSuccess &= verify(
+                        log,
+                        "Num At Large",
+                        numAtLarge + "",
+                        aiResult.numAtLarge,
+                        "\t",
+                        "\t"
+                );/**/
+            }
 
             //Gender
             allSuccess &= verify(
@@ -1391,7 +1425,7 @@ public class AiValidator {
         //Verify AI Responses Against Manual Data Entry
 //        final String aiModel = "gpt-4-turbo-2024-04-09";
         final String aiModel = "gpt-4o-2024-05-13";
-        verifyAIAgainstManualDataEntry(aiModel);
+        verifyAIAgainstManualDataEntry(aiModel);/**/
     }
 
     public static void main(String[] args) throws SQLException, IOException, InterruptedException, ClassNotFoundException, InstantiationException, IllegalAccessException {
