@@ -3,7 +3,7 @@ A manual ETL of the primary data from the FBI's reports on active shooter incide
 See:
 
 * https://www.fbi.gov/file-repository/active-shooter-incidents-2000-2018.pdf/view
-* https://www.fbi.gov/about/partnerships/office-of-partner-engagement/active-shooter-incidents-graphics
+* https://www.fbi.gov/how-we-can-help-you/active-shooter-safety-resources/active-shooter-incidents-graphics
 * https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2019-042820.pdf/view
 * https://www.fbi.gov/file-repository/active-shooter-incidents-20-year-review-2000-2019-060121.pdf/view
 * https://www.fbi.gov/file-repository/active-shooter-incidents-in-the-us-2020-070121.pdf/view
