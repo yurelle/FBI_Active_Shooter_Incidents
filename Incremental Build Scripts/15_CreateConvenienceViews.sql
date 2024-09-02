@@ -140,25 +140,25 @@ CREATE VIEW PerCapitaStats_Total AS
 -- 
 -- This extra duplicated data accounts for about 1% of the total casualties data.
 -- 
--- Incidents
---     W/Dups:   492
---     Actual:   484
---      Extra:     8 [1.65%]
--- 
--- Deaths
---     W/Dups: 1,313
---     Actual: 1,304
---     Extra:      9 [0.69%]
--- 
--- Wounded
---     W/Dups: 2,293
---     Actual: 2,268
---     Extra:     25 [1.10%]
--- 
--- TotalCasualties
---     W/Dups: 3,606
---     Actual: 3,572
---     Extra:     34 [0.95%]
+--    Incidents
+--        W/Dups:   540
+--        Actual:   532
+--         Extra:     8 [1.50%]
+--    
+--    Deaths
+--        W/Dups: 1,418
+--        Actual: 1,409
+--        Extra:      9 [0.64%]
+--    
+--    Wounded
+--        W/Dups: 2,432
+--        Actual: 2,407
+--        Extra:     25 [1.04%]
+--    
+--    TotalCasualties
+--        W/Dups: 3,850
+--        Actual: 3,816
+--        Extra:     34 [0.89%]
 -- 
 CREATE VIEW PerCapitaStatsByState_Yearly AS
     WITH TrimmedPopYears AS (
@@ -207,7 +207,7 @@ CREATE VIEW PerCapitaStatsByState_Yearly AS
 -- --------------------------------------------------------
 
 -- Total Casualty Statistics By State Per Capita Across All Years
---
+-- 
 -- Note: This query double counts multi-state incidents, by including
 -- their casualty counts in both states.
 -- 
@@ -292,25 +292,25 @@ CREATE VIEW CasualtiesByLocation_Total AS
 -- 
 -- This extra duplicated data accounts for about 1% of the total casualties data.
 -- 
--- Incidents
---     W/Dups:   489
---     Actual:   484
---      Extra:     5 [1.03%]
+--    Incidents
+--        W/Dups:   537
+--        Actual:   532
+--         Extra:     5 [0.94%]
 -- 
--- Deaths
---     W/Dups: 1,342
---     Actual: 1,304
---     Extra:     38 [2.91%]
+--    Deaths
+--        W/Dups: 1,448
+--        Actual: 1,409
+--        Extra:     39 [2.77%]
 -- 
--- Wounded
---     W/Dups: 2,365
---     Actual: 2,268
---     Extra:     97 [4.28%]
+--    Wounded
+--        W/Dups: 2,510
+--        Actual: 2,407
+--        Extra:    103 [4.28%]
 -- 
--- TotalCasualties
---     W/Dups: 3,707
---     Actual: 3,572
---     Extra:    135 [3.78%]
+--    TotalCasualties
+--        W/Dups: 3,958
+--        Actual: 3,816
+--        Extra:    142 [3.72%]
 -- 
 CREATE VIEW CasualtiesByShooterGender_Yearly AS
     WITH YearlyStats AS (
@@ -343,27 +343,7 @@ CREATE VIEW CasualtiesByShooterGender_Yearly AS
 -- Note: This query double counts multi-state incidents, by including
 -- their casualty counts in both states.
 -- 
--- This extra duplicated data accounts for about 1% of the total casualties data.
--- 
--- Incidents
---     W/Dups:   489
---     Actual:   484
---      Extra:     5 [1.03%]
--- 
--- Deaths
---     W/Dups: 1,342
---     Actual: 1,304
---     Extra:     38 [2.91%]
--- 
--- Wounded
---     W/Dups: 2,365
---     Actual: 2,268
---     Extra:     97 [4.28%]
--- 
--- TotalCasualties
---     W/Dups: 3,707
---     Actual: 3,572
---     Extra:    135 [3.78%]
+-- See: CasualtiesByShooterGender_Yearly
 -- 
 CREATE VIEW CasualtiesByShooterGender_Total AS
     SELECT
@@ -387,25 +367,25 @@ CREATE VIEW CasualtiesByShooterGender_Total AS
 -- 
 -- This extra duplicated data accounts for about 1% of the total casualties data.
 -- 
--- Incidents
---     W/Dups:   486
---     Actual:   484
---      Extra:     2 [0.41%]
+--    Incidents
+--        W/Dups:   534
+--        Actual:   532
+--         Extra:     2 [0.38%]
 -- 
--- Deaths
---     W/Dups: 1,342
---     Actual: 1,304
---     Extra:     38 [2.91%]
+--    Deaths
+--        W/Dups: 1,448
+--        Actual: 1,409
+--        Extra:     39 [2.77%]
 -- 
--- Wounded
---     W/Dups: 2,365
---     Actual: 2,268
---     Extra:     97 [4.28%]
+--    Wounded
+--        W/Dups: 2,510
+--        Actual: 2,407
+--        Extra:    103 [4.28%]
 -- 
--- TotalCasualties
---     W/Dups: 3,707
---     Actual: 3,572
---     Extra:    135 [3.78%]
+--    TotalCasualties
+--        W/Dups: 3,958
+--        Actual: 3,816
+--        Extra:    142 [3.72%]
 -- 
 CREATE VIEW CasualtiesByShooterFate_Yearly AS
     WITH YearlyStats AS (
@@ -438,27 +418,7 @@ CREATE VIEW CasualtiesByShooterFate_Yearly AS
 -- Note: This query double counts multi-state incidents, by including
 -- their casualty counts in both states.
 -- 
--- This extra duplicated data accounts for about 1% of the total casualties data.
--- 
--- Incidents
---     W/Dups:   486
---     Actual:   484
---      Extra:     2 [0.41%]
--- 
--- Deaths
---     W/Dups: 1,342
---     Actual: 1,304
---     Extra:     38 [2.91%]
--- 
--- Wounded
---     W/Dups: 2,365
---     Actual: 2,268
---     Extra:     97 [4.28%]
--- 
--- TotalCasualties
---     W/Dups: 3,707
---     Actual: 3,572
---     Extra:    135 [3.78%]
+-- See: CasualtiesByShooterFate_Yearly
 -- 
 CREATE VIEW CasualtiesByShooterFate_Total AS
     SELECT
