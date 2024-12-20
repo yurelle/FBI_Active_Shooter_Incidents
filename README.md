@@ -287,7 +287,7 @@ However, since I don't have any special facts on the case, as with the other pot
 
 ### "Old Town Arvada, Arvada, CO" (Jun. 21, 2021)
 
-The 2021 FBI Report documents the shooter has having only a shotgun. However, various news reports explicitly mention the shooter having either: a shotgun, an AR-15, or both; and the refernces to an AR-15 are explicitly repeated multiple times in each article. So, either the news stories are making stuff up, or there's some ambiguity here. As usual, I've gone with the FBI's account, but it might be wrong.
+The 2021 FBI Report documents the shooter as having only a shotgun. However, various news reports explicitly mention the shooter having either: a shotgun, an AR-15, or both; and the refernces to an AR-15 are explicitly repeated multiple times in each article. So, either the news stories are making stuff up, or there's some ambiguity here. As usual, I've gone with the FBI's account, but it might be wrong.
 
 Also, this account only mentions the law enforcement officer who was killed. While it acknowledges that an armed civilian killed the shooter, and stopped the attack, it does not mention that another police officer killed the good samaritan. There seems to be some inconsistency for which injuries surrounding an event do or do not get counted. I thought I remembered an event from one of the previous years, where there was some kind of casualty due to collateral damage by police, and it was counted. But maybe I'm remembering wrong.
 
